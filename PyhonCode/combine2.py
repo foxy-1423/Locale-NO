@@ -24,7 +24,7 @@ def merge_json_files(file1_path, file2_path):
 
     updated_data = update_data(data1, data2)
 
-    with open('merged_json_file.json', 'w', encoding='utf-8') as output_file:
+    with open('merged_no_file.json', 'w', encoding='utf-8') as output_file:
         json.dump(updated_data, output_file, indent=4, ensure_ascii=False)
 
 if __name__ == "__main__":
