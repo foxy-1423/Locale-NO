@@ -1,0 +1,1682 @@
+1: no
+2: OK
+3: Start
+4: Finish
+5: Avbryt
+6: Fortsette
+7: Neste
+8: Previous
+9: Tilbake
+10: Bekrefte
+11: Laster inn...
+12: Behandler...
+13: FEILET
+14: Nullstille
+15: åpne?
+16: Save
+17: Saving...
+18: Lagret!
+19: Done!
+20: Close
+21: Copy to clipboard
+22: Kopiert!
+23: Kopiert til utklippstavlen!
+24: Create
+25: Creating...
+26: Buy
+27: Yes
+28: No
+29: Clear Selection
+30: Off
+31: On
+32: I understand
+33: Notice
+34: I understand, Enable
+35: Dismiss
+36: Edit
+37: Søke...
+38: Skriv for å søke...
+39: Toggle Edit Mode
+40: Toggle Subtitles
+41: Subtitles: On
+42: Subtitles: Off
+43: Music Volume (local):
+44: Voice Volume (local):
+45: Sound Volume (local):
+46: Press To Begin
+47: Stigende
+48: synkende
+49: Home
+50: Tutorial
+51: ikke-klipp
+52: Enkel ikke-klipp flyemodus, ideell for redigering.
+53: Teleport
+54: Bruker ballistisk baneteleportering for komfortabel bevegelse.
+55: Fly
+56: Fysisk flymodus
+57: Gå/løp
+58: Fysisk gang, løping og hopping.
+59: Gå / løp (med klatring)
+60: Fysisk gang, løping og hopping og klatring.
+61: Null-G
+62: Vektløs fysisk bevegelse
+63: Gripe Verden
+64: Oppretter et verdensanker med referanse og beveger brukeren i forhold til den.
+65: gli
+66: Enkel skyvebevegelse som smekker til overflaten hvis den er tilstede, fly ellers.
+67: Ødelegge
+68: Duplisere
+69: Save To Inventory
+70: Angre
+71: Gjøre om
+72: Equip
+73: Dequip
+74: Skalering aktivert
+75: Skalering deaktivert
+76: Tilbakestill skala
+77: Laser aktivert
+78: Laser deaktivert
+79: Grab: Palm
+80: Grab: Precision
+81: Grab: Auto
+82: Grab: Laser Only
+83: Bevegelse
+84: Ingenting
+85: Equip {name}
+86: Tool
+87: Enter Anchor
+88: Exit Anchor
+89: Equip Avatar
+90: Save as screenshot
+91: Export screenshot
+92: Import File
+93: Export File
+94: Copy Link
+95: Open World
+96: Equip
+97: Delete
+98: Save Held
+99: Inventories
+100: Share
+101: Unshare
+102: Save Avatar
+103: Set Home
+104: Set Progress Bar
+105: Set Stream Controller
+106: Set Text Display
+107: Set Video Player
+108: Set Audio Player
+109: Set Camera
+110: Set Keyboard
+111: Set Avatar
+112: Set Loading Bar
+113: Set Color Picker
+114: Set URL Display
+115: Spawn Facet
+116: Hjem
+117: Verdener
+118: Kontakter
+119: Inventar
+120: Desktop
+121: Økten
+122: <nobr>Fil utforsker
+123: Innstillinger
+124: Avslutt
+125: Lim inn innhold fra utklippstavlen
+126: Turn off UI Edit Mode
+127: Min Sky Hjem
+128: Avslutt {appName}
+129: Avslutt og lagre Hjem
+130: Avslutt & Forkast Hjem
+131: Huge thanks to {name} for sponsoring this project!
+132: YOU
+133: This project is also being made possible thanks to these people:
+134:  and many more!
+135: {name} (That's you! Thank you!)
+136: Takk for at du bruker {appName}!
+137: Innsendt av: {name}
+138: {fps}<size=61.803%> FPS</size>
+139: Venter...
+140: verten begynner økten
+141: Laster inn...
+142: Mislyktes
+143: Lastet {assets} av {total_assets}
+144: Laster ned {bytes} av {total_bytes}
+145: Oppretter forbindelse
+146: Ber om å bli med
+147: autentisering
+148: Tilkoblet
+149: synkroniserer den opprinnelige verdensstaten
+150: LNL Direct IP
+151: LNL NAT Punchthrough {n}
+152: LNL Relay
+153: Steam Networking Sockets
+154: Tilgang nektet
+155: Sikkerhetsbrudd
+156: Kun registrerte brukere får lov til å bli med
+157: Bare kontakter av verten har lov til å bli med
+158: Only contacts of users in the session are allowed to join
+159: Denne økten er privat
+160: Økten er avsluttet
+161: Økten har nådd brukergrensen
+162: mislyktes autentisering
+163: Kunne ikke godkjenne bruker-ID
+164: Kunne ikke hente autentiseringsinformasjon
+165: Det er allerede bedt om å Delta
+166: Kunne ikke koble til relé
+167: Failed to establish connection
+168: Invalid Address
+169: Ingen port spesifisert
+170: Inkompatibel {appName}-versjon
+171: Host blocked
+172: You have blocked the host
+173: World Crashed
+174: Fatal error when updating the world
+175: Ukjent feil
+176: Verdensnavn:
+177: Beskrivelse:
+178: Maksimum brukere:
+179: Mobilvennlig
+180: Verdens lagringsalternativer:
+181: Redigeringsmodus:
+182: Hvem kan bli med i denne verden?
+183: Autospark AFK-brukere:
+184: Maks AFK-minutter:
+185: Ikke vises i Øktlister
+186: Lagre automatisk (overskriver siste lagring):
+187: Lagre automatisk etter minutter:
+188: Opprydding ubrukte eiendeler:
+189: Oppryddingsintervall (sekunder):
+190: Start økt
+191: Bli med
+192: Fokus
+193: Lukk verden
+194: Forlat verden
+195: Lagre endringer
+196: Lagre som...
+197: Save Copy...
+198: Lagre kopi
+199: Lagre til inventar
+200: Lagrer...
+201: Forkaste endringer
+202: kopiere Verden
+203: Slett verden
+204: Bekreft Slett
+205: SLETT PERMANENT
+206: Overskriv med {name}
+207: bekreft overskriving
+208: Overskriver ...
+209: Lukk verden?
+210: Forlate verden?
+211: Lukk
+212: Forlate
+213: (kan ikke lukke denne verdenen)
+214: 
+215: Du er verten for denne verden. Alle brukere blir koblet fra.
+216: Få verden kule
+217: Kopier verden URL
+218: Kopier Record URL
+219: Start tilpasset økt
+220: Rediger metadata
+221: Få økt sfære
+222: Kopier økt URL
+223: Ingen data
+224: Lokal maskin
+225: Av: {name}
+226: Host: {name}
+227: Hoster
+228: {n,plural, one {# session} other {# sessions}}
+229: Brukere
+230: (ingen aktive økter funnet)
+231: Beskrivelse
+232: (ingen beskrivelse gitt)
+233: (visited)
+234: Aktive økter:
+235: Aktive brukere:
+236: <ny økt>
+237: Beskrivelse: 
+238: Økt Informasjon
+239: Oppetid
+240: Synlighet
+241: Brukere
+242: {active}{borte, velge, 0 {} annen { (+{away} away)}} ut av {max}
+243: Verdensinformasjon
+244: Publisert
+245: Sist oppdatert
+246: Besøk
+247: Merker
+248: Handlinger:
+249: Alt
+250: Utvalgt
+251: Publiserte verdener
+252: aktive økt
+253: Contacts Sessions
+254: Hodeløse økter
+255: Sosial
+256: Spill
+257: Kunst
+258: Opplæringsprogrammer
+259: Pedagogisk
+260: Shuffle
+261: Mine verdener
+262: Tilpasset
+263: Group Worlds
+264: Alle
+265: registrerte brukere
+266: Contacts
+267: Contacts+
+268: LAN
+269: Privat (kun invitasjon)
+270: Søkeresultat
+271: Navn
+272: Åpnede verdener
+273: Totalt antall økter
+274: Totalt antall brukere
+275: Opprettelsesdato
+276: Endringsdato
+277: Publiseringsdato
+278: Totalt antall besøk
+279: Last Visit
+280: Random
+281: Datakilder:
+282: Åpnede verdener
+283: aktiv økt
+284: Publiserte verdener
+285: Lokale verdener
+286: Basesøk:
+287: Av eier:
+288: Eier er bruker
+289: Eier er gruppe
+290: Sendt til gruppen:
+291: Bare utvalgt
+292: Mine verdener
+293: Sessionsfiltrering:
+294: Minimum brukere: <b>{n}</b>
+295: Minimum Contacts: <b>{n}</b>
+296: Bare hodeløse verter
+297: Maksimum tilgangsnivå
+298: Minimum oppetid:
+299: Sortering:
+300: Edit World Metadata
+301: World Name:
+302: Description:
+303: Tags (comma separated):
+304: World Path:
+305: Who can open this world?
+306: Only Me
+307: Patreon Supporters
+308: Anyone (public)
+309: Avatar Creator
+310: Full Body Kalibrator
+311: Kamera / Streaming
+312: Skap ny verden
+313: Debug
+314: Stream Audio
+315: Setup 2FA
+316: Create Audio Stream
+317: Start Streaming
+318: Bitrate: {bitrate} kbps
+319: {username} Audio Stream
+320: Spatialized
+321: Broadcast
+322: Play for owner: Off
+323: Play for owner: On
+324: Freeform Dash: På
+325: Freeform Dash: Av
+326: Sittende modus: På
+327: Sittende modus: Av
+328: Nameplates: All
+329: Nameplates: Non-contacts
+330: Nameplates: Hide
+331: Use default nameplates
+332: Allow custom nameplates
+333: Online brukere: ~{num_total} ({num_registered})
+334: <color=hero.purple>{users}</color> {users, plural, one {user} other {users}} in VR
+335: <color=hero.cyan>{users}</color> {users, plural, one {user} other {users}} in Desktop
+336: Cloud Status
+337: Good
+338: Slow
+339: Down
+340: No Internet
+341: Allet synkronisert
+342: Synkronisering {item_count,plural, one {# item} other {# items}} <nobr>({item_percent} %)
+343: Laster opp {variant_count,plural, one {# asset variant} other {# asset variants}}
+344: Synkroniseringsfeil! <size=50%>Sjekk loggen for detaljer</size>
+345: Storage Full <size=61.803%>Cannot sync</size>
+346: Storage Full
+347: {storage_used} of {storage_max}<br><size=61.803%>Storage Space Used</size>
+348: (informasjon skjult mens du er live)
+349: Invalid credentials
+350: Invalid credentials
+351: Invalid device information
+352: Missing device information
+353: Invalid device information
+354: Invalid device information
+355: No credentials provided
+356: Invalid recovery code
+357: Unsupported authentication method
+358: Email not verified
+359: Your account is locked.
+360: Your account is banned.
+361: Duplicate account
+362: Missing registration details
+363: Invalid Email address
+364: Missing username
+365: Missing Email
+366: Username too long
+367: Username cannot contain @
+368: Username cannot start with U-
+369: Invalid username
+370: Invalid date of birth
+371: Username contains blocked words
+372: Missing Password
+373: Invalid Password
+374: Email already registered
+375: Username already registered
+376: Error checking UserID
+377: Logg Inn
+378: Logg ut
+379: Registrere
+380: Login with SAML 2.0
+381: Logg Inn / Registrere
+382: Er du sikker?
+383: Logger inn...
+384: Logger ut...
+385: Registrering...
+386: Anonym
+387: Brukernavn:
+388: E-post:
+389: Husk meg:
+390: Gjenta e-post:
+391: Brukernavn eller e-post:
+392: Passord:
+393: Gjenta passord:
+394: Mistet Passord?
+395: <color=#f00>WARNING:</color> live.com, hotmail.com, outlook.com og andre Microsoft-eide tjenester kan ta opptil 1-2 dager å godta e-posten.
+396: (minst 8 tegn, 1 siffer, 1 liten bokstav, 1 stor bokstav)
+397: Jeg er 13 år eller eldre
+398: Mistet Passord
+399: Send gjenopprettingskode
+400: Tilbakestill passordet ditt
+401: En gjenopprettingskode er sendt til e-posten din. Kopier den til feltet under:
+402: Gjenopprettingskode:
+403: Nytt passord:
+404: Angi nytt passord
+405: Ber om...
+406: Passordene er ikke like!
+407: E-post er ikke like!
+408: Loggfeil:
+409: Suksess! Det er sendt en e-post med bekreftelseskobling. Når du har åpnet denne lenken, kan du logge på.
+410: Birth Month:
+411: Birth Day:
+412: Birth Year:
+413: I agree to the <color=#22B2FF>terms of service</color> and <color=#22B2FF>privacy policy</color>
+414: Login with a 3rd party service instead:
+415: SAML 2.0
+416: Please select the SAML 2.0 provider you want to use:
+417: Waiting for the login to complete (check your web browser)...
+418: Two Factor Authentication
+419: Checking status of 2FA for your account...
+420: Secret Code
+421: First you need to input a secret code to your TOTP authentication app such as <b>Authy</b> or <b>Google Authenticator</b>.<br><br>We recommend doing this by scanning the QR code, but alternatively you can manually input the secret code. <b>Never share this code with anyone.</b><br><br>If you're in VR you can switch to desktop by pressing F8.
+422: Scan QR Code
+423: Secret code:
+424: Recovery Codes
+425: Save these codes in a secure location. They can be used to recover access to your account in case you lose or damage your phone. Each code can be used only once. <b>Never share them with anyone.</b> If you lose them, you will <color=red>PERMANENTLY</color> lose access to your account.
+426: Codes:
+427: Activate 2FA
+428: In order to activate the 2FA on your account, use the 6-digit token generated by your authenticator app to ensure that everything is working correctly.<br><br>Once activated, you'll need to use the code to confirm certain operations.
+429: 6-digit token:
+430: Enter your token here...
+431: Activate
+432: Activating...
+433: Invalid token!
+434: 2FA has already been setup on your account!
+435: Unexpected error! Please try again later.
+436: <size=150%>Congratulations!</size><br><br>Your account is now setup with 2FA for extra protection!<br><br>You can optionally enable this for account login with /enableLogin2FA command.
+437: Deactivate 2FA
+438: 2FA is currently <b><color=green>setup and active on your account</color></b>. If you need to deactivate it (e.g. due to loss of your phone or the codes being compromised), you can do so here.<br><br>After deactivation, you can setup 2FA again, which will generate a brand new secret code and new set of recovery codes.<br><br>If you lose your phone and need to setup 2FA again, we <b>STRONGLY</b> advise you do so immediately, as each recovery code can be used only once and after you run out you'll be completely locked out of your account.
+439: Deactivate
+440: Deactivating...
+441: 2FA has been successfully deactivated on your account.<br><br>Your account is now at increased risk!<br><br>We strongly recommend setting up 2FA again immediately, especially if you used a recovery code due to losing your phone.
+442: Standard Account
+443: Business Account
+444: Patreon Supporter
+445: {platform} Mentor
+446: {platform} Moderator
+447: {platform} Team
+448: LIVE
+449: 2FA Verification
+450: 6-digit Token:
+451: Online
+452: Borte
+453: Opptatt
+454: Usynlig
+455: Frakoblet
+456: Headless Host
+457: Innstillinger
+458: Brukere
+459: Tillatelser
+460: Standard anonym:
+461: Standard besøkende:
+462: Standard Kontakt:
+463: Standard vert:
+464: brukeroverstyringer: {n,velge, -1 {---} annet {{n}}}
+465: Fjern brukeroverstyringer
+466: Activate Custom Join Verifier?
+467: <color=red>WARNING:</color> You are about to enable custom join verification that is part of the current world. Before you do so, make sure you trust the creator of the world, as custom verifier can bypass standard session access rules and allow or block entry to users using its own rules.
+468: Use Custom Join Verifier: {name}
+469: <color=red>WARNING:</color> At the moment, there is no mechanism to prevent tampering with the verifier once enabled. If tampering with the ProtoFlux setup for verification is a concern, DO NOT USE this feature and DO NOT ENABLE it in your worlds.
+470: Set as custom join request verifier
+471: You are not allowed to spawn things here.
+472: You are not allowed to save items in this world.
+473: You are not allowed to swap to custom avatar here.
+474: Silence
+475: Demp
+476: Hopp
+477: Respawn
+478: kick
+479: Ban
+480: Legg til kontakt
+481: Fjern Kontakt
+482: Virkelig fjerne?
+483: Aksepter forespørsel
+484: Ignorer forespørsel
+485: Inviter hit
+486: Revoke Invite
+487: Ban fra ALLE mine økter
+488: Unban fra ALLE mine økter
+489: Ban fra denne verden
+490: Unban fra denne verden
+491: Recording voice...
+492: Unblocked
+493: Block Avatar
+494: Mutual Block
+495: My Account
+496: Search contacts...
+497: Write a message...
+498: I {name}
+499: I privat verden
+500: In Contacts Only World
+501: In Hidden World
+502: In Hidden, Contacts Only World
+503: In Hidden, Contacts+ World
+504: In LAN World
+505: Bruker versjon {version}
+506: Forespørsel sendt
+507: Kontakt forespørsel
+508: Ignorert
+509: Blokkert
+510: Søkeresultat
+511: Bot account
+512: Contact hasn't Migrated
+513: Er nå online
+514: Er nå online <size=75%>(bruker versjon: {version})</size>
+515: Sendte en kontaktforespørsel
+516: Inviterer deg til:
+517: Sendte deg et element:
+518: Sent a voice message
+519: Sett felt {field_name} til {value}
+520: Angi referanse {ref_name} til {ref_target}
+521: Spawn {name}
+522: Ødelegge {name}
+523: Feste {component_type} på {slot_name}
+524: Dupliser Komponent
+525: Ødelegge {component_type} på {slot_name}
+526: Flyttet {name}
+527: Oversett
+528: Oversett langs aksen
+529: Roter rundt aksen
+530: Tilbakestill posisjon
+531: Tilbakestill Rotasjon
+532: Tilbakestill Skala
+533: Grip objekter
+534: Ødeleggede gjenstander
+535: Dupliserte grepede objekter
+536: Endre størrelsen på boksen
+537: Penselslag
+538: Bytt farge
+539: Dupliser Komponent
+540: Bevege IK Bein
+541: Beveg Sola
+542: Påfør materiale
+543: Bake {name}
+544: Endre mesh
+545: Sett Parent for {name}
+546: Evil Stuff
+547: Extract Materials from Hierarchy
+548: Batch convert materials
+549: Change Color
+550: Increment Size
+551: Decrement Size
+552: Lag ny...
+553: Utvalg: {mode}
+554: Utviklermodus: Av
+555: Utviklermodus: på
+556: Åpne inspektøren
+557: Opphev alle
+558: Ødelegg valgt
+559: REALLY Destroy Selected
+560: Gizmo Options
+561: Select Parent
+562: Local Space
+563: Global Space
+564: Translation
+565: Rotation
+566: Scale
+567: Fargevelger
+568: Sett skalerbar
+569: Angi ikke-skalerbar
+570: Set Apply to Root
+571: Set Apply to Hit
+572: Marker Grippable
+573: ikke Marker Grippable
+574: Sørg for å gå / løpe bevegelse
+575: Sørg for Zero-G-bevegelse
+576: Sørg for fysisk flytning
+577: Punkt
+578: Spot
+579: Sol
+580: behold skygge
+581: Deaktiver skygge
+582: Aktiver skygge
+583: Sett til kun skygge
+584: Sett til dobbeltsidig skygge
+585: Legg til Slicer
+586: Clear Setup
+587: Ray-modus
+588: Area-modus
+589: Objekt global modus
+590: Scene Global modus
+591: Skape kopi
+592: Rediger materiale
+593: Konvertere til...
+594: Convert All to...
+595: Skape ny
+596: Rediger nett
+597: Eject Orb
+598: WAV
+599: OGG Vorbis
+600: FLAC
+601: Hold to record
+602: Press to start/stop recording
+603: Raw
+604: Filtered & Normalized
+605: Drive
+606: Source
+607: Reference
+608: Write
+609: Proxy
+610: Create Local
+611: Create Store
+612: Create Data Model Store
+613: Toggle Overview Mode
+614: Browse nodes
+615: Pack In Place
+616: Pack Into <size=50%>{name}</size>
+617: Unpack <size=50%>{name}</size>
+618: Explicit Cast
+<size=50%>(<color=red>Warning:</color> Potential Data Loss)</size>
+619: Call
+620: <size=50%>Async</size> Call
+621: ProtoFlux Nodes
+622: <<< <i>Tilbake</i>
+623: Tom gjenstand
+624: Partikkelsystem
+625: Gjenstandt
+626: Avatar Creator
+627: Kamera
+628: Reflection Probe
+629: Speil
+630: Portal
+631: Videospiller
+632: Spawn Area
+633: Spawn punkt
+634: UIX Lerret
+635: Facet
+636: Tåkevolume
+637: additiv
+638: Alpha
+639: Multiplikativ
+640: Gradient
+641: Tekst
+642: Basic
+643: Outline
+644: Edditor
+645: Brukerinspektør
+646: World Light Sources Wizard
+647: World Text Renderer Wizard
+648: Asset Optimization Wizard
+649: Cubemap Creator
+650: Reflection Probe Wizard
+651: 3D-modell
+652: Triangle
+653: Boks
+654: Kule
+655: Kapsel
+656: Kjegle
+657: Sylinder
+658: Quad
+659: Grid
+660: Torus
+661: Collider
+662: Boks
+663: Kule
+664: Kapsel
+665: Cylinder
+666: Kjegle
+667: Mesh
+668: Lys
+669: Punkt
+670: Spot
+671: Directional
+672: Materialer
+673: Create new directory:
+674: Please provide a name:
+675: Name is too long:
+676: Invalid name:
+677: Avatar Skaper
+678: Juster avatarobjekter med hodesett- og kontrollerhenvisninger (valgfritt) og trykk på Create for å konvertere dem til en avatar
+679: Bruk Symmetri
+680: Vis verktøyankre
+681: Oppsett volummåler
+682: Oppsettøyer
+683: Setup Face Tracking
+684: Beskytt avatar
+685: Kalibrer føttene
+686: Kalibrer bekken / hofter
+687: Juster hodet fremover
+688: Juster hodet opp
+689: Juster hodet til høyre
+690: Senterhodeposisjon
+691: Prøve auto-Tilpasse Hender
+692: Juster verktøyankre
+693: Skape
+694: Raw File
+695: Folder Importer
+696: Individual import
+697: Creates a separate import dialog for each supported file in the folder
+698: Batch import
+699: Created a single importer for each type, using same settings for each file
+700: Minecraft World
+701: Imports a Minecraft World if Mineways is installed.
+702: Image Importer
+703: Hva vil du importere?
+704: Bilde / Textur
+705: Screenshot <size=50%>(captured here)</size>
+706: Pixel Art
+707: 360 foto / skybox
+708: Stereo foto
+709: Stereo 360 foto
+710: 180 foto
+711: Stereo 180 foto
+712: LUT
+713: Hvilken layout bruker det?
+714: Side om Side LR
+715: Side om Side RL
+716: Top Bunn LR
+717: Top Bunn RL
+718: Modell Importer
+719: Hva importerer du?
+720: 3D Modell
+721: 3D Scan
+722: CAD Modell
+723: Point Cloud
+724: Vertex Farget Modell
+725: Avansert Instillinger
+726: Hva slags 3D modell?
+727: Regulær / Avatar
+728: Separable with snappable pieces
+729: What units is it in?
+730: Auto Skala (ukjent skala)
+731: Auto Humanoid høyde
+732: Meter (m)
+733: Millimeter (mm)
+734: Centimeter (cm)
+735: Tommer
+736: Alt klart?
+737: Kjør Import!
+738: Skala: 
+739: Auto Skala
+740: Max Textur Størrelse
+741: Bilde Format: 
+742: Material: 
+743: Prefer Specular
+744: Rette Akser: 
+745: Kalkuler Normaler
+746: Kalkuler Tangenter
+747: Importer Vertex Farge
+748: Importer Bein
+749: Import Lights
+750: Kalkuler Textur Alfa
+751: Importer Albedo Farge
+752: Importer Emisjon
+753: Generer Colliders
+754: Importer Animasjoner
+755: Sett opp som snappable
+756: Sett opp som timelapse
+757: Importer eksterne texturer
+758: Importer skinned meshes
+759: Sett opp IK
+760: Visualiser Rigg
+761: Tvinge T-Pose
+762: As Point Cloud
+763: Gjør Dobbelt Sidet
+764: Gjør Flat Skygget
+765: Deduplicate Instances (slow)
+766: Optimiser Modell/Scene
+767: Split Submeshes
+768: Generer Tilfeldige Farge
+769: Lag Material Kule
+770: Importer Bilder etter Navn
+771: Force Point Filtering
+772: No MipMaps
+773: Force Uncompressed
+774: Gjør Gripelig
+775: Gjør Skalerbar
+776: posisjonere På Oprinnelse
+777: Plaser Ressurs På Objekt
+778: Video Importerer
+779: Hva importerer du?
+780: Video
+781: 360 Video
+782: Stereo Video
+783: Stereo 360 Video
+784: Dypbde Video
+785: 180 Video
+786: Stereo 180 Video
+787: Dybde forhåndsinnstilling
+788: Standard
+789: Export
+790: File name:
+791: Export as:
+792: Export
+793: Exporting...
+794: Ny Verden
+795: New Session
+796: Verden Mal:
+797: Tilpasset forhåndsinnstilling:
+798: Sesjon Instillinger:
+799: Utrygt Modus:
+800: Port:
+801: Auto:
+802: {name} Verden
+803: Full Body Calibration
+804: 1) Set your height
+805: Make sure this is your actual height, otherwise calibration won't work correctly. The mannequin should fit the headset and controllers.
+806: This seems incorrect. Make sure it's yor actual height.
+807: 2) Confirm tracker mapping
+808: Stand in upright position and ensure the trackers are tracking and detected correctly.
+809: Start Tracker Calibration
+810: Just calibrate my avatar
+811: Skip full body calibration and just calibrate the avatar
+812: Skip and adjust avatar
+813: Align yourself with the the red body overlay in your playspace and press both triggers to confirm. Make sure your real feet and hips match the virtual ones as close as possible.
+814: Make sure trackers are tracking and your height is set
+815: Align yourself with the reference and press both triggers to confirm
+816: Adjust avatar body offsets to best match the reference
+817: Verify and fine tune calibration by moving blue references
+818: Calibrate Trackers
+819: Grab and position the blue body parts relative to the trackers to adjust their offset. They should match the location of the tracker on your body.
+You can adjust calibration anytime later by reopening this tool.
+820: Use Symmetry
+821: Show Body Overlay
+822: If the mannequin is too tall (hunched) or too short, adjust the height compensation for best fit.
+823: Mangled or missing trackers?
+824: Run T-Pose calibration again
+825: Need to adjust avatar fit?
+826: Calibrate My Avatar
+827: All good?
+828: Finish fullbody calibration
+829: Calibrate Avatar
+830: Make sure all body parts are mapped and then drag the blue spheres around, to make the avatar best match the body reference.
+831: Show Reference Overlay
+832: Avatar mangled or not tracking?
+833: Reset Mapping
+834: If the avatar is too tall (ends up hunched up) or too short for you adjust its height compensation here so it better fits your height.
+835: Avatar Height Compensation: {n, number, percent}
+836: Reset Height Compensation
+837: Don't forget to save your avatar after you're finished calibrating it!
+838: Finish Avatar Calibration
+839: If you're satisfied with the calibration, you can save your avatar now and exit.
+840: Close Calibrator
+841: If the calibration is off or you want to calibrate more avatars you can make more adjustments. You can also reopen this calibrator any time in the future to make adjusments.
+If you've only changed your trackers, you don't need to calibrate your avatars again.
+842: Return to tracker calibration
+843: Hips
+844: Feet
+845: Chest
+846: Elbows
+847: Knees
+848: Tracker Mapped
+849: Not Tracking...
+850: No Tracker Mapped
+851: Feet not tracking...
+852: Mapped
+853: Not Mapped
+854: No Tracker
+855: Kamera Kontrol
+856: SPEILING AV
+857: Speil til skjerm
+858: Foto
+859: 360 Foto
+860: Smooth POV
+861: Tredje Person
+862: Gruppe
+863: Verden
+864: Manual
+865: Avoid Occlusion
+866: Keep In Worldspace
+867: Movement Wobbble
+868: Sikt framfør hode
+869: Skjul Kamera
+870: Force Eyes On Camera
+871: Skjul Merker
+872: Skjul Lasere
+873: Vis Frustum
+874: Foto Timer
+875: Vis Live Merke
+876: Audio from camera viewpoint
+877: Brukere
+878: Skape Kamera Anker
+879: Interpolate between anchors
+880: Anchor Interpolation Speed:
+881: Linear Interpolation
+882: Ingen kamera ankere i denne verden
+883: Synsfelt
+884: Vinkel Forskyvning
+885: Avstand
+886: Høyde
+887: Første Person Helling 
+888: Første Person Rull
+889: Første Person Forskyvning
+890: Reset
+891: Anyone Can Interact
+892: Render Preview For Everyone
+893: Render Private UI
+894: Motion Blur
+895: Screen Space Reflections
+896: Spawn photo in the world
+897: Flip Preview
+898: Group Detection Radius: {n} m
+899: Group Exclude Boundary: {n} m
+900: Position Smooth Speed: {n}
+901: Angle Smooth Speed: {n}
+902: Framing Smooth Speed: {n}
+903: OBS Websocket IP:
+904: OBS Password (optional):
+905: Connect
+906: Make sure that OBS is running and has the obs-websocket plugin installed
+907: Open installer webpage
+908: Launch OBS
+909: Launching...
+910: Launched!
+911: Connecting...
+912: Connected!
+913: Disconnected!
+914: Authentication Failure!
+915: Connection failed: 
+916: Connection timeout. Is OBS running with websocket plugin installed?
+917: Unexpected connection errror:
+918: OBS Disconnected
+919: Return to connect page
+920: Auto Mirror on Record/Stream
+921: Bitrate: {n}/s
+922: FPS: {n}
+923: Dropped frames: {n}
+924: IDLE
+925: LIVE
+926: REC
+927: This webpage lets you download the OBS websocket plugin
+928: Start Streaming
+929: Starting Streaming...
+930: Stop Streaming
+931: Stopping Streaming
+932: Start Recording
+933: Starting Recording...
+934: Stop Recording
+935: Stopping Recording
+936: My Height:
+937: Metric (cm)
+938: Imperial (ft)
+939: Override Locale:
+940: Hide All Tutorials
+941: Show Interaction Hints
+942: Primary Controller
+943: VR Hotswitching
+944: Allow Strafing
+945: Use Head Direction for movement
+946: Smooth Turn
+947: Smooth Turn Exclusive Mode
+948: Smooth Turn Speed
+949: Snap Turn Angle
+950: No-clip Speed
+951: Speed Exponent
+952: Movement Deadzone
+953: Controller Vibration
+954: Haptics Feedback
+955: Disable Physical Interactions
+956: Enable Gestures
+957: Double Click Interval
+958: Reset All Tutorials
+959: Prefer Steam Networking Sockets
+960: Disable LAN
+961: Enable Legacy Double Grip Equip
+962: Enable Legacy World Switcher
+963: Show Incompatible Sessions
+964: Don't send realtime message read status
+965: Max Concurrent Asset Transfers
+966: Auto-save screenshot path
+967: Auto-save ALL screenshots in world
+968: Debug Input Bindings
+969: Laser Smoothing
+970: Smooth Speed
+971: Modulate Start Angle
+972: Modulate End Angle
+973: Modulate Exponent
+974: Modulate Speed Multiplier
+975: Stick Threshold
+976: Show Laser in Desktop Mode
+977: Reset Laser Settings
+978: Audio
+979: Audio Input Devices
+980: Master Volume: {n,number,percent}
+981: Sound Effects: {n,number,percent}
+982: Multimedia: {n,number,percent}
+983: Voice: {n,number,percent}
+984: User Interface: {n,number,percent}
+985: Disable Voice Normalization
+986: Noise Gate Threshold: {n}
+987: Normalization Threshold: {n}
+988: Noise Suppression Filter (RNNoise)
+989: Whisper Voice Volume (outside bubble): {n,number,percent}
+990: Audio Input Device:
+991: Audio Output Device:
+992: Select Audio Input Device
+993: Select Audio Output Device
+994: Test your audio input:
+995: We'll play the sound from the selected audio device back at you, so you can verify it's correct.
+996: Listen to device
+<size=50%>(check microphone / audio in)</size>
+997: Stop Testing
+998: Audio Input Monitoring:
+999: Use System Default
+1000: Desktop FOV
+1001: UI Language
+1002: Change Language
+1003: Select your language:
+1004: System Default
+1005: Save Settings
+1006: Full Body Tracking:
+1007: Feet Position Smoothing
+1008: Feet Rotation Smoothing
+1009: Hips Position Smoothing
+1010: Hips Rotation Smoothing
+1011: Dash
+1012: Curvature
+1013: Open/Close Speed
+1014: Leap Motion
+1015: Leap Tracking Enabled
+1016: Horizontal Offset
+1017: Vertical Offset
+1018: Forward Offset
+1019: Controller Hand Snap Distance
+1020: Use Fingers When Snapped
+1021: Vive Finger Tracking
+1022: Vive Hand Tracking Enabled
+1023: Vive Hand Tracking Snap Distance
+1024: Use Vive Fingers When Snapped
+1025: Windows Integration
+1026: Linux Integration
+1027: Keep original screenshot format
+1028: When enabled, screenshots won't be converted to JPG when saved into the Documents folder
+1029: External Link
+1030: <b><size=125%>Warning: Outgoing hyperlink</size></b>
+You've clicked a link in a world. Do you want to open it? This will open in your desktop web browser.
+1031: Open
+1032: Cancel
+1033: Host Access
+1034: <b><size=125%>Warning: World is trying to access 3rd party host</size></b>
+Allowing access can allow the third party to gather some personal information, like your IP and geographical location.
+1035: Target Host: <b>{host}</b>
+1036: Reason: {reason}
+1037: <i>No reason provided</i>
+1038: Allow
+1039: Deny
+1040: < (back)
+1041: Components
+1042: Create Custom Type
+1043: Common Generic Types
+1044: Custom Generic Arguments:
+1045: Invalid type
+1046: Scene Inspector
+1047: Attach Component
+1048: X: <b>+</b>Right <b>-</b>Left
+1049: Y: <b>+</b>Up <b>-</b>Down
+1050: Z: <b>+</b>Forward <b>-</b>Backward
+1051: Reset:
+1052: Position
+1053: Rotation
+1054: Scale
+1055: Create Pivot At Center
+1056: Jump To
+1057: Bring To
+1058: Bring {name} to user
+1059: Parent Under:
+1060: World Root
+1061: Parent {name} under world root
+1062: Local User Space
+1063: Parent {name} under local user space
+1064: Mesh Statistics
+1065: Vertex Count: {n}
+1066: Triangle Count: {n}
+1067: Point Count: {n}
+1068: Submesh Count: {n}
+1069: Bone Count: {n}
+1070: Blendshape Count: {n}
+1071: Normals: {normals}, Tangents: {tangents}, Colors: {colors}, UV0: {uv0}, UV1: {uv1}, UV2: {uv2}, UV3: {uv3}
+1072: Bake Mesh
+1073: Setup Renderer
+1074: Resave Mesh
+1075: Recalculate Normals
+1076: Recalculate Normals (smooth shading)
+1077: Recalculate Tangents (Mikktspace)
+1078: Recalculate Tangents (simple)
+1079: Recalculate Blendshape Normals
+1080: Recalculate Blendshape Normals (smooth shading)
+1081: Recalculate Blendshape Tangents (Mikktspace)
+1082: Flip Normals
+1083: Reverse Winding
+1084: Make Dual Sided
+1085: Convert To Flat Shading
+1086: Convert To Convex Hull
+1087: Convert To Point Cloud
+1088: Merge Doubles
+1089: Strip Empty Blendshapes
+1090: Strip Blendshape Normals
+1091: Strip Blendshape Tangents
+1092: Merge Blendshapes
+1093: Get Bone List
+1094: Get Bone Data
+1095: Trim Vertex Bone Weights To:
+1096: {n,plural, one {# Bone} other {# Bones}}
+1097: Multiplicator:
+1098: Scale UV's
+1099: Merge submeshes with same material
+1100: Split into separate meshes by material
+1101: Convex Hull Decomposition (V-HACD 2.0)
+1102: Replace With Box Collider
+1103: Update locomotion modules on present users
+1104: Merge Doubles
+1105: Resolution
+1106: Depth
+1107: Concavity
+1108: Plane Downsampling
+1109: Convex Hull Downsampling
+1110: Alpha
+1111: Beta
+1112: Gamma
+1113: Delta
+1114: PCA
+1115: Max Vertices Per Hull
+1116: Min Volume Per Hull
+1117: Convex Hull Approximation
+1118: Decomposition Mode:
+1119: Voxel
+1120: Tetrahedron
+1121: Run Decomposition
+1122: Remove Visuals
+1123: Remove Hulls
+1124: Bake Reflections
+1125: Baking...
+1126: Separate parts of mesh unaffected by blendshapes
+1127: Strip Empty Blendshapes
+1128: Done! Stripped: {n,plural, one {# blendshape} other {# blendshapes}}
+1129: Strip Empty Bones
+1130: Done! Stripped: {n,plural, one {# bone} other {# bones}}
+1131: Bake Non-Driven BlendShapes
+1132: Baked BlendShapes: {n}
+1133: Visualize bone bounding boxes
+1134: Visualize approximate merged bone sphere bounds
+1135: Remove bone bounding box visuals
+1136: Compute explicit bounds from current pose
+1137: Extend explicit bounds from current pose
+1138: Bake To Static Mesh
+1139: Remove All Instances
+1140: Remove Single Instance
+1141: <color=red><size=150%>WARNING!</size></color><br>Removing this component through any means other than the dedicated buttons below will trip the protection mechanism and lead to self destruction and potential data loss!
+1142: REMOVE Avatar Protection
+1143: Get rig diagnostic info
+1144: Generate Debug Visuals
+1145: Clear Debug Visuals
+1146: Detect Hand Rigs
+1147: Detect Left Hand Rig
+1148: Detect Right Hand Rig
+1149: Done! Has Left: {left}, Has Right: {right}
+1150: Done! Detected left: {detected}
+1151: Done! Detected right: {detected}
+1152: Size: {width} x {height}
+1153: Format: {format}, Memory: <nobr>{memory}</nobr>
+1154: VariantID: {variant}
+1155: Bake Texture
+1156: Invert RGB
+1157: Invert R
+1158: Invert G
+1159: Invert B
+1160: Invert Alpha
+1161: Color to Alpha (white)
+1162: Color to Alpha (black)
+1163: Alpha from intensity
+1164: Alpha to Mask
+1165: Remove Alpha
+1166: Convert to grayscale (average)
+1167: Convert to grayscale (luminance)
+1168: Swap R and G
+1169: Swap R and B
+1170: Swap R <--> A
+1171: Swap G and B
+1172: Swap G <--> A
+1173: Swap B <--> A
+1174: Add White Background
+1175: Add Black Background
+1176: Hue:
+1177: Shift Hue
+1178: Saturation:
+1179: Adjust Saturation
+1180: Value:
+1181: Adjust Value
+1182: Gamma:
+1183: Adjust Gamma
+1184: Longest Side:
+1185: Resize
+1186: Flip Horizontal
+1187: Flip Vertical
+1188: Rotate 90° CW
+1189: Rotate 90° CCW
+1190: Rotate 180°
+1191: Trim Transparency
+1192: Trim By Corner Color
+1193: Make Square
+1194: To nearest power of two
+1195: Make Tileable (transition ratio):
+1196: Tile (loop)
+1197: Tile (mirror)
+1198: Normalize (max only)
+1199: Normalize (min and max)
+1200: Normalize RGB independently (min and max)
+1201: Bleed Color To Alpha
+1202: Diagnostic: Invalid floats
+1203: Diagnostic: Generate Bitmap Metadata
+1204: Variant: {variantID} (Raw: {rawVariantID})
+1205: Waiting for apply: {waiting}
+1206: Bake Audio Clip
+1207: Sample Rate: {rate} Hz, Channels: {channels} ({channel_count})
+1208: Duration: {duration}, SampleCount: {samples}
+1209: Codec info: {info}, Fully Decoded: {decoded}
+1210: Normalize Volume
+1211: Amplitude Threshold:
+1212: Trim Silence
+1213: Trim Start Silence
+1214: Trim End Silence
+1215: Position/Duration (in seconds):
+1216: Trim Start
+1217: Trim End
+1218: Add Fade In
+1219: Add Fade Out
+1220: Make Loopable (using crossfade)
+1221: Convert to WAV
+1222: Convert to OGG Vorbis
+1223: Convert to FLAC
+1224: Denoise (RNNoise, optimized for voice at 48 kHz)
+1225: Extract Sides (can remove vocals on stereo tracks)
+1226: Available samples: {samples}, Missed: {missed}, Length: {length}, Global Index: {index}
+1227: Available to encode: {samples}, Frame Size: {frame} (Max: {max_frame}), Sample Rate: {rate}
+1228: Total Packets: {total}, Total Lost Packets: {lost}, Packet Loss: {loss, number, percent}
+1229: Avg codec: {avgCodec}/s, Avg read: {avgRead}/s, Avg written: {avgWritten}/s
+1230: Setup From Children
+1231: Setup From Children (force all)
+1232: Setup From Children (rig only)
+1233: Replace Smooth Transforms in children
+1234: Clear Smooth Transforms in children
+1235: ------- Colliders & Grabbing -------
+1236: Add fixed colliders from hierarchy (using object root)
+1237: Always grab last bone
+1238: Cleanup bone colliders
+1239: Generate debug visuals
+1240: Clear debug visuals
+1241: Auto Assign Blendshapes (using heuristics)
+1242: <color=red><size=150%>WARNING!</size></color><br>It is possible to use this component as a simple rigidbody by checking SimulateRotation. Before you do, please understand that it is not optimized for this purpose and proper Rigidbody Support is coming in the future.<br>Proper rigidbody support will offer:<br><b>- CPU and network efficiency</b> - with CharacterController you'll be getting higher CPU usage and significant amount of network traffic<br><b>- Constraints</b> - you'll be able to create joints, hinges, springs and other constraints between rigidbodies<br><b>- Smooth simulation and interactions for everyone</b> - CharacterController will glitch out if another person tries to interact<br><b>- New Features and Tools</b> - to make using them much easier<br>-----------------------<br>As long as you understand those limitations, have fun!
+1243: <color=red><size=150%>WARNING!</size></color><br>It is possible to use this component to interact with references by using their IDs. This process is commonly called 'Ref Hacking'.<br><br><b>Before</b> you do this, please understand that this is <b>not</b> supported and may break at any time. Do not rely on this functionality for your creations.
+1244: Common Transition Templates:
+1245: Alpha Fade In & Fade Out
+1246: Alpha Fade In
+1247: Alpha Fade Out
+1248: Intensity Fade In & Fade Out
+1249: Intensity Fade In
+1250: Intensity Fade Out
+1251: Clear Fades
+1252: Set from local bounds
+1253: Set from global bounds
+1254: Set from local bounds (precise)
+1255: Set from global bounds (precise)
+1256: Set from precise bounds
+1257: Set from precise cylinder bounds
+1258: Visualize Collider
+1259: Set to away (debug)
+1260: Restore to normal (debug)
+1261: Drive
+1262: Drive <size=50%>(write back)</size>
+1263: Copy Component
+1264: Move Component
+1265: User Inspector
+1266: {name} Inspector
+1267: New
+1268: Process Root:
+1269: Result:
+1270: No Root Selected
+1271: Removed {n}
+1272: Asset Optimization Wizard
+1273: Cleanup Unused Assets
+1274: Cleanup Empty Slots
+1275: Cleanup Disabled Mesh Renderers
+1276: Deduplicate Materials
+1277: Cleanup File Items
+1278: Set Max Texture Resolution
+1279: Recompress Textures
+1280: Recalculate All Normals
+1281: Recalculate All Normals (merged)
+1282: Recalculate All Tangents (Mikktspace)
+1283: Resized {n}
+1284: Light Sources Wizard
+1285: Scene Light Sources
+1286: Process Root:
+1287: Point Lights:
+1288: Spot Lights:
+1289: Directional Lights:
+1290: Disabled Lights:
+1291: With Tag:
+1292: Set Shadow Type
+1293: Change Intensity
+1294: Change Range
+1295: Enable
+1296: Disable
+1297: Destroy
+1298: Cubemap Creator
+1299: Source Textures:
+1300: Note that some conventions have left and right swapped. If the resulting cubemap is incorrect, try swapping the left and right textures.
+1301: Positive X (right)
+1302: Negative X (left)
+1303: Positive Y (top)
+1304: Negative Y (bottom)
+1305: Positive Z (front)
+1306: Negative Z (back)
+1307: Top/Bottom Rotation:
+1308: Reflection Probe Wizard
+1309: Process Root:
+1310: Process Disabled
+1311: With Tag:
+1312: Teleport me to each probe
+1313: Delay between probes
+1314: Show Debug Visuals
+1315: Hide Debug Visuals
+1316: Bake Probes
+1317: Baking {index} of {count}...
+1318: TextRenderer Wizard
+1319: Process Root:
+1320: Process Standalone
+1321: ProcessUIX
+1322: Process Disabled
+1323: With Tag:
+1324: Replace Material
+1325: Replace Font
+1326: Set Color
+1327: Desktop Controls
+1328: Open Keyboard
+1329: Follow Cursor: On
+1330: Follow Cursor: Off
+1331: Legacy Input: On
+1332: Legacy Input: Off
+1333: Brightness: {n,number,percent}
+1334: Opacity: {n,number,percent}
+1335: Highlight
+1336: Slice
+1337: Welcome!
+1338: Dive into a brand new digital universe with infinite possibilities. Whether you come here to socialize and hang out with people around the world or to build, create and develop anything from beautiful art, interactive avatars and gadgets, to complex interactive worlds and games, Resonite is an endlessly customizable place where you'll be welcome and where you'll find a group to resonate with.<br><br>Before you start exploring, we'll first guide you through setting up some essentials, to ensure a smooth experience. When you're ready, click the button below
+1339: Let's begin!
+1340: {appName} account
+1341: Creating an Account gives you 1 GB free storage and access to saving items, favoriting avatars, adding contacts and messaging.
+1342: Create Account
+1343: I already have an account
+1344: Continue without an account
+1345: Skip creating an account?
+1346: Some functionality like saving items to inventory, favoriting avatar or adding contacts won't be accessible.
+1347: Really skip
+1348: Basic Preferences
+1349: You can configure basic motion and user preferences. All of these can be changed at later point.
+1350: Turning Style
+1351: Snap
+1352: Instantly snaps to new angle, ideal for new users
+1353: Smooth
+1354: Gradually turns, but can cause nausea.
+1355: Primary Controller
+1356: Left
+1357: <b>Left:</b> Turn, <b>Right:</b> Strafe
+1358: Right
+1359: <b>Left:</b> Strafe, <b>Right:</b> Turn
+1360: Your height
+1361: Examples: 1.85 m, 185 cm, 6' 1", 6 feet 1 inch
+1362: Ready to start exploring?
+1363: You're all setup and almost ready to go! We will now transfer you to our tutorial world. At the end, there's a brand new homeworld that's waiting for you, which will serve as your base for exploring {appName}. When you are ready, click the button below.
+1364: Begin Tutorial
+1365: Community YouTube Channels
+1366: User Resources
+1367: How to support {appName}
+1368: {appName} Merch
+1369: {appName} Team
+1370: Moderator
+1371: Mentor
+1372: Hearing Impaired
+1373: Vision Impaired
+1374: Speech Impaired
+1375: Badges
+1376: Badges are small icons which show aspects of a user. Here are a few important badges to remember. The disability badges can be self assigned though the {appName} bot. For more information please check the {appName} Wiki
+1377: Help
+1378: Local Toggle
+1379: Commands Enabled
+1380: Commands Disabled
+1381: Safemode Enabled
+1382: Safemode Disabled
+1383: Subscriber Commands<br> Enabled for Subscribers Only
+1384: Subscriber Commands<br> Enabled for Everyone
+1385: Twitch Chat
+1386: Saving {n, plural, one {# item} other {# items}}...
+1387: Lagrer Endringer...
+1388: Exiting...
+1389: Logger ut...
+1390: Migration
+1391: New Migration Task
+1392: Migrate data?
+1393: Would you like to migrate data from another account? You can choose to do this later from the "Migration" tab on the dash as well.
+1394: Open migration
+1395: Maybe later
+1396: Really reset UserID?
+1397: Please understand that doing this will result in <color=red>UNPREDICTABLE CONTENT BREAKAGE</color>. All your items, worlds, contacts and messages will be migrated successfully, but any behaviors and components that rely on referencing your old UserID will likely break and require to be re-setup and be repaired. Unless you have a serious reason to want to reset your UserID, <color=red>DO NOT CHOOSE THIS OPTION</color>.
+1398: Yes, reset
+1399: <b>Reserved Username</b>
+1400: This username is reserved for original owner. If this is your account, please provide your {platform} credentials to unlock it. We do not store these credentials, they are only used to verify the ownership of your account on registration.
+1401: {platform} Password:
+1402: {platform} Username:
+1403: Account Migration
+1404: You can migrate data from any compatible infrastructure. First select one from the list below that you'd like to migrate data from. You can add additional infrastructures by placing config files in the "Migrations" folder in the installation.
+1405: To migrate your account, we'll need your {platform} account password. This will let us login to it and access the data.
+1406: Reset my UserID
+1407: <color=red><b>WARNING:</b></color> Choosing this option <b>WILL PARTIALLY BREAK EXISTING CONTENT AND IS IRREVERSIBLE</b>, this includes any UserID references in user content, community services, links, cloud variables and more. These references will be reset, but your items, worlds, contacts and messages themselves will not be lost. We recommend using this option <b>ONLY</b> if you would like to get rid of your old UserId and replace it with a new randomized one. Unless you have a strong reason to reset your UserID, you <b>SHOULD NOT</b> check this option. Your UserID will change like this:
+ U-MyUsername -> U-fX3pKe7AYYQ
+1408: When we migrate your account, what data should we migrate?
+1409: Everything
+1410: Let me choose
+1411: Favorites (avatar, home, camera, keyboard, facets)
+1412: This will migrate your home, favorite avatar, keyboard, camera and dash first, so you can start using them as soon as possible.
+ <color=red><b>WARNING:</b></color> If you choose this option, you might <b>LOSE ANY CHANGES</b> made on this platform before the migration to your favorites.
+1413: When migrating should we overwrite your favorites?
+1414: Set your old home as default?
+1415: When we migrate your data, your original cloud home will be placed under different URL and you will get a brand new cloud home as default. However if you'd prefer, we can default your old home as the default one. Even if you select "No", your old cloud home will still be accessible and you can favorite it as your default later.
+1416: Contacts
+1417: Message History
+1418: Inventory & Worlds
+1419: Cloud Variable Definitions
+1420: Cloud Variable Values
+1421: Always overwrite
+1422: Start Migration
+1423: Migrate Groups
+1424: Should we migrate your groups?
+1425: All groups you are administrator of will be migrated by default. If you'd like to migrate only select groups, click the button below to load them and then check the groups you'd like to migrate.
+1426: Load groups
+1427: Refresh groups
+1428: Fetching groups...
+1429: Error logging in: {error}
+1430: Error fetching groups: {error}
+1431: No {platform} groups found to migrate.
+1432: You're not an admin of any {platform} groups, ask your group admins to migrate the group!
+1433: Ok, we have everything we need. Click Start Migration below and we'll get started on your migration.
+
+Migration might take a while, we've gotta copy everything across. If you've selected to migrate your favorites, we'll prioritize them so that you can get comfortable.
+
+You don't need to keep {appName} running whilst we're migrating, but we'll send you updates via the {appName} bot to let you know how its going.
+1434: Looking to start a new Migration?
+1435: Click on "New Migration Task" in the top left.
+1436: {name}
+<size=50%>Created on:{time}
+Status:{state}
+1437: Migration Task Report:
+1438: <color={hex}>Description:</color> {value}
+1439: <color={hex}>Status:</color> {value}
+1440: <color={hex}>Created on:</color> {value}
+1441: <color={hex}>Started on:</color> {value}
+1442: <color={hex}>Completed on:</color> {value}
+1443: Currently migrating the data of <color={hex}>{value}</color>.
+1444: Current item: <color={hex}>{value}</color>
+1445: <color={hex}>Current rate:</color> ~{value} worlds/items per minute
+1446: <color={hex}>Remaining tasks in queue before this one:</color> {value}
+1447: Migrated <color={hex}>{current}</color> contacts out of <color={hex}>{total}</color>
+1448: Migrated <color={hex}>{value}</color> messages
+1449: Migrated <color={hex}>{value}</color> cloud variable definitions
+1450: Migrated <color={hex}>{value}</color> cloud variables
+1451: Migrated <color={hex}>{current}</color> items/worlds out of <color={hex}>{total}</color>. <color=red>{failed}</color> failed.
+1452: Migrated <color={hex}>{current}</color> groups out of <color={hex}>{total}</color>
+1453: Migrated total <color={hex}>{value}</color> group members
+1454: <color=red>Error:</color> {error}
+1455: Nothing selected, cannot start.
+1456: This world has been authored in gamma space and has been automatically converted to linear.<br><br>It may look different from original, but should be generally usable.<br><br>If you are the author and you find any issues with the conversion of world <color=red>DO NOT SAVE</color>. Only save copies.<br><br>As long as the original exists, we can tweak conversion process. Otherwise you will be responsible to fix it yourself.
+1457: MMC Voting UI
+1458: Vote
+1459: Categories
+1460: Worlds
+1461: Social
+1462: Game
+1463: Gadgets/Tools+
+1464: Miscellaneous
+1465: Meme
+1466: Avatars
+1467: Accessories
+1468: Vote cast in category {category} for {voteTarget}.
+1469: Vote failed, your vote has not been registered please try again.
+1470: You have already voted in {category}.
+1471: Vote is invalid, please try again.
+1472: Welcome Home
+1473: Target Range Options
+1474: Welcome Home!
+1475: Welcome to your <b><i><color=hero.yellow>Home</b></i></color> world! This is where you'll end up every time you log in.<br><br>This is a world all your own, so any changes you make are able to be saved.<br><br>If you save, everything will be just as you left it when you return!
+1476: Online {online_users,plural, one {user} other {users}}: {online_users}<br>Joinable {joinable_users,plural, one {user} other {users}}: {joinable_users}
+1477: Moderation
+1478: Inventory
+1479: Tools
+1480: More Info
+1481: Session Uptime:
+1482: Access Level:
+1483: Storage Used:
+1484: Welcome!
+1485: Just to get you up to speed, there's a couple things you should know. You have a <i><color=hero.purple>Dashboard</color></i> that you can open by pressing Escape. Think of it as your desktop or control panel.<br><br>If you're confused, this display has some additional info to help you out. Click the button below to dismiss this message.
+1486: Just to get you up to speed, there's a couple things you should know. You have a <i><color=hero.purple>Dashboard</color></i> that you can open by pressing B or Y. Think of it as your desktop or control panel.<br><br>If you're confused, this display has some additional info to help you out. Click the button below to dismiss this message.
+1487: Just to get you up to speed, there's a couple things you should know. You have a <i><color=hero.purple>Dashboard</color></i> that you can open by pressing and holding the Menu button until the circle completes. Think of it as your desktop or control panel.<br><br>If you're confused, this display has some additional info to help you out. Click the button below to dismiss this message.
+1488: Go to Wiki!
+1489: Go to Discord!
+1490: Moderation!
+1491: Safety is important to us. If you need help or need to report a user, open a ticket in our <u><color=hero.cyan>Moderation Portal.</color></u><sprite name=hyperlink><br><br>We have a strong team of volunteer moderators <sprite name=modbadge> keeping the community safe! Please submit a ticket if you have questions or see guideline-breaking behavior.
+1492: Save Your Items!
+1493: The <i><color=hero.purple>Inventory</color></i> in your <i><color=hero.purple>Dashboard</color></i> contains your saved avatars and items.<br><br>The <i><color=hero.purple>Essentials</color></i> folder has some fun things to play with; double click an item to spawn it!
+1494: In-World Editing!
+1495: A hallmark of {appName} is being able to easily create or modify things right in-game.<br><br>Yes, that means right here! Or anywhere really - the tools available to you via <i><color=hero.purple>Essentials -> Tools</color></i> in your inventory allow you to easily edit the world around you to your liking.
+1496: Getting Help
+1497: Need help? Take a look at our <u><color=hero.cyan>Wiki</color></u><sprite name=hyperlink>, or get answers to your
+1498: questions in our <u><color=hero.cyan>Discord!</color></u><sprite name=hyperlink> Handily, you can view links on your desktop through your Dashboard in the <i><color=hero.purple>Desktop</color></i> tab.
+1499: Finding Users
+1500: Public sessions are a great way to immerse yourself in the community!<br><br>Public sessions which you can join right now can be found in the <i><color=hero.purple>Worlds</color></i> tab in your dashboard. Check it out!
+1501: Rendering Options
+1502: Mirror Type
+1503: Mirror Resolution
+1504: Aspect Ratio
+1505: Enable Lights
+1506: Disable Lights
+1507: Enable Shadows
+1508: Disable Shadows
+1509: Camera
+1510: Tall
+1511: Square
+1512: Wide
+1513: Menu
+1514: Close Menu
+1515: Spin Me!
+1516: Free self-replenishing fruit plate
+1517: Left empty just for you! :)
+1518: Relevant links!<br><--<br><br><size=500>One could even call it a linking book</size>
+1519: Hold the power of the sun in your hands!
+1520: Pull back your String and aim true
+1521: Lever Action (or use secondary) to load
+1522: Adjustable Shade
+1523: Use this tablet to control the fan and window tint for this room!
+1524: Use this tablet to control parts of the home!
+1525: Rotate me by holding E!
+1526: Rotate me!
+1527: Equip and press left mouse!
+1528: Equip and pull the string!
+1529: Dip brushes in orbs to use materials
+1530: Change the brush color and size in your Context Menu
+1531: You can draw on the board, in the air, or anywhere!
+1532: The world is your canvas!
+1533: Home Control
+1534: General
+1535: Lighting
+1536: Furniture
+1537: Quality
+1538: Doors
+1539: Audio
+1540: Overhead Lighting
+1541: Sconces
+1542: Furniture Visibility
+1543: Low Quality Mode
+1544: Door Sounds
+1545: Doors Always Open
+1546: Interior Ambience
+1547: Interior<br>Ambience<br>Volume
+1548: Lights On
+1549: Light Intensity
+1550: Light Color
+1551: Light Color Temperature
+1552: Spawn
+1553: Foyer
+1554: Workspace
+1555: Reading Lounge
+1556: Lounge
+1557: Center
+1558: Balcony
+1559: Theater
+1560: Theater Control
+1561: Fan Control
+1562: Window Control
+1563: Fan Speed
+1564: Window Tint
+1565: Open World
+1566: Open this world for<br>yourself by clicking here!
+1567: featured
+1568: Featured Avatar Worlds
+1569: <b>Our Supporters</b>
+1570: Hey! Before you go...
+1571:      There's a world of possibilities waiting for you, and what's possible is limited only by your imagination.<br><br>     Almost all of the things you've seen so far were made right in-game! People from across the world worked together in real-time to build it.<br><br>     The platform is still very much in early development and we're updating and improving things constantly. But you're part of this journey too, and the sky is the limit!<br><br><align=center>Thanks for stopping in and giving us a try.</align>
+1572: Grab
+1573: Snap
+1574: Slide
+1575: Jumping
+1576: While in Walk locomotion, press space bar to jump!
+1577: While in Walk locomotion, press in on your joystick to jump!
+1578: While in Walk locomotion, press in on the center of your trackpad to jump!
+1579: Walk Locomotion
+1580: Move and jump along the ground.
+1581: Teleport Locomotion
+1582: Teleport instantly sends you to the teleportation indicator.
+1583: Use the movement keys to walk around!
+1584: Use your joysticks to walk around!
+1585: Use your trackpads to walk around!
+1586: Open your Context Menu by pressing T for options!
+1587: Feeling sick? Open your Context Menu by pressing B or Y for options!
+1588: Feeling sick? Open your Context Menu by pressing the Menu button for options!
+1589: Other locomotion options, such as fly, are available to try in the Locomotion menu.
+1590: Other locomotion options, such as teleport or fly, are available to try in the Locomotion menu.
+1591: Press this button to bring the platform to you!
+1592: Physically grab things by holding the right mouse button!
+1593: Physically grab things by holding Grip!
+1594: Rotate held items by holding E and moving your mouse!
+1595: Hold Shift and E together to rotate an object around its horizontal axis!
+1596: Grab an item, hold shift, and use your scroll wheel to scale it!
+1597: Physically grab things with both hands to scale them!
+1598: There are a variety of interactables, play with these three to see how they work!
+1599: In addition to scaling objects, you can also scale yourself by enabling scaling in your Context Menu, then holding control and using your scroll wheel!
+1600: In addition to scaling objects, you can also scale yourself by enabling scaling in your Context Menu, grabbing in front of you with both hands, and moving them closer or further apart!
+1601: Grab the telescope and aim it at the moon!
+1602: While aiming at the moon, hold right click and look around to move the moon!
+1603: Deploy your laser with the Trigger button and grab the moon!
+1604: Grab this tool to use it!
+1605: Tools let you change the world around you in a variety of ways!
+1606: Click on this tool to equip it!
+1607: Don't see your laser? Slightly Hold your Trigger to reveal it!
+1608: Aim at the sky and click to move the sun there!
+1609: Try aiming below the horizon to make it night!
+1610: Drop the equipped tool by choosing Dequip in your Context Menu.
+1611: Notice the options in your Context Menu have changed because you're holding this tool.
+1612: Press this button to activate the Teleporter to your Cloud Home!
+1613: Enjoy your home and thanks for stopping by!
+1614: Landscape
+1615: Portrait
+1616: Normal
+1617: Monospace
+1618: Global<br>Settings
+1619: Local<br>Settings
+1620: Spatialized<br>Audio
+1621: Area<br>Broadcast
+1622: Broadcast<br>Audio
+1623: <i><alpha=#77>Enter URL Here</closeall>
+1624: Local to<br>Theater
+1625: Audible<br>to World
+1626: {users_loaded}/{users_present} {users_present,plural, one {user} other {users}}<br>loaded
+1627: Color Picker
+1628: Linear
+1629: Hex
+1630: Swatch
+1631: Red
+1632: Green
+1633: Blue
+1634: Hue
+1635: Saturation
+1636: Value
+1637: Alpha
+1638: Gain
+1639: Importing Item
+1640: Multi-Tool
+1641: Common Tools
+1642: Manipulation Tools
+1643: Information Tools
+1644: Geometry Line Brush Tool
+1645: Developer Tool
+1646: Component Clone Tool
+1647: ProtoFlux Tool
+1648: Material Tool
+1649: Glue Tool
+1650: Light Tool
+1651: Shape Tool
+1652: Microphone Tool
+1653: Grabbable Setter Tool
+1654: Physical Collider Setter Tool
+1655: Mesh Visibility Tool
+1656: Camera Object Visibility Tool
+1657: Color Tool
+1658: Mesh Tool
+1659: Rigged Mesh Transfer Tool
+1660: Mesh Slicer Tool
+1661: Controller Diagnostic Tool
+1662: Measure Tool
+1663: Label Tool
+1664: Dummy
+1665: <color=#fff>Serverstatus:</color> {status, select, Good {Good} Slow {Slow} Down {Down} NoInternet {No Internet}} ({response_ms} ms)
+1666: Tom for rom! <size=50%>Kan ikke synkronisere</size>
+1667: Mottatt tipp {amount} {token}
+1668: Sendt tipp {amount} {token}

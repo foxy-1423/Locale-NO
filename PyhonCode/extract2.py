@@ -43,10 +43,10 @@ def save_words_with_numeric_ids_to_text_file(words_with_numeric_ids, text_output
 
 if __name__ == "__main__":
     # Replace 'input.json' with the path to your JSON file
-    input_file = 'en.json'
+    input_file = 'merged_no_file.json'
 
     # Replace 'output.json' with the desired output JSON file name
-    output_json_file = 'output-en.json'
+    output_json_file = 'Temp_no.json'
 
     # Replace 'output.txt' with the desired output text file name
     output_text_file = 'output-en.txt'
