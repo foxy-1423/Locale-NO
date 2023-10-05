@@ -122,14 +122,14 @@
 122: <nobr>Fil utforsker
 123: Innstillinger
 124: Avslutt
-125: Lim inn innhold fra utklippstavlen
+125: Lim inn fra utklippstavlen
 126: Slå av UI-redigeringsmodus
 127: Min Sky Hjem
 128: Avslutt {appName}
 129: Avslutt og lagre Hjem
 130: Avslutt & Forkast Hjem
 131: Stor takk til {name} for å sponse dette prosjektet!
-132: DU
+132: DEG
 133: Dette prosjektet blir også muliggjort takket være disse menneskene:
 134: og mange flere!
 135: {name} (Det er deg! Takk!)
@@ -137,40 +137,40 @@
 137: Innsendt av: {name}
 138: {fps}<size=61.803%> FPS</size>
 139: Venter...
-140: verten begynner økten
+140: verten starter økten
 141: Laster inn...
 142: Mislyktes
 143: Lastet {assets} av {total_assets}
-144: Last ned {bytes} av {total_bytes}
+144: Laster ned {bytes} av {total_bytes}
 145: Oppretter forbindelse
 146: Ber om å bli med
 147: autentisering
 148: Tilkoblet
 149: synkroniserer den opprinnelige verdensstaten
-150: LNL Direct IP
+150: LNL Direkte IP
 151: LNL NAT Punchthrough {n}
-152: LNL Stafett
-153: Steam-nettverkskontakter
+152: LNL Relay
+153: Steam-Networking Sockets
 154: Tilgang nektet
 155: Sikkerhetsbrudd
 156: Kun registrerte brukere får lov til å bli med
-157: Bare kontakter av verten har lov til å bli med
-158: Kun kontakter til brukere i økten får være med
+157: Kun kontakter av verten har lov til å bli med
+158: Kun kontakter til brukere har lov til å bli med
 159: Denne økten er privat
 160: Økten er avsluttet
 161: Økten har nådd brukergrensen
 162: mislyktes autentisering
 163: Kunne ikke godkjenne bruker-ID
 164: Kunne ikke hente autentiseringsinformasjon
-165: Det er allerede bedt om å Delta
-166: Kunne ikke koble til relé
+165: Det har allerede bedt om å Bli med
+166: Kunne ikke koble til relay
 167: Kunne ikke opprette forbindelse
 168: Ugyldig adresse
 169: Ingen port spesifisert
 170: Inkompatibel {appName}-versjon
 171: Vert blokkert
 172: Du har blokkert verten
-173: Verden krasjet
+173: Verden har krasjet
 174: Fatal feil ved oppdatering av verden
 175: Ukjent feil
 176: Verdensnavn:
@@ -180,12 +180,12 @@
 180: Verdens lagringsalternativer:
 181: Redigeringsmodus:
 182: Hvem kan bli med i denne verden?
-183: Autospark AFK-brukere:
+183: Auto-spark AFK brukere:
 184: Maks AFK-minutter:
-185: Ikke vises i Øktlister
-186: Lagre automatisk (overskriver siste lagring):
-187: Lagre automatisk etter minutter:
-188: Opprydding ubrukte eiendeler:
+185: Vises ikke i Øktlister
+186: Autolagring (overskriver siste lagring):
+187: Autolagring interval:
+188: Opprydding ubrukte assets:
 189: Oppryddingsintervall (sekunder):
 190: Startøkt
 191: Bli med
@@ -195,7 +195,7 @@
 195: Lagre endringer
 196: Lagre som...
 197: Lagre kopi...
-198: Lagre kopi
+198: Lagre her
 199: Lagre til inventar
 200: Lagrer...
 201: Forkaste endringer
@@ -203,7 +203,7 @@
 203: Slett verden
 204: Bekreft Slett
 205: SLETT PERMANENT
-206: Overskriv med {navn}
+206: Overskriv med {name}
 207: bekreft overskriving
 208: Overskriver ...
 209: Lukk verden?
@@ -213,16 +213,16 @@
 213: (kan ikke lukke denne verdenen)
 214:
 215: Du er verten for denne verden. Alle brukere blir koblet fra.
-216: Få verden kule
-217: Kopier verden URL
-218: Kopier post-URL
+216: Få verdens kule
+217: Kopier verdens URL
+218: Kopier record URL
 219: Start tilpasset økt
 220: Rediger metadata
-221: Få økt sfære
+221: Få økt kule
 222: Kopier økt URL
 223: Ingen data
 224: Lokal maskin
-225: Av: {navn}
-226: Vert: {navn}
+225: Av: {name}
+226: Vert: {name}
 227: Hoster
 228: {n,flertall, en {# økt} annen {# sessi
