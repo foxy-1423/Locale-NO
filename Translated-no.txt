@@ -1,0 +1,228 @@
+1: no
+2: OK
+3: Start
+4: Fullfør
+5: Avbryt
+6: Fortsette
+7: Neste
+8: Forrige
+9: Tilbake
+10: Bekrefte
+11: Laster inn...
+12: Behandler...
+13: FEILET
+14: Nullstille
+15: åpne?
+16: Lagre
+17: Lagrer...
+18: Lagret!
+19: Ferdig!
+20: Lukk
+21: Kopier til utklippstavlen
+22: Kopier!
+23: Kopier til utklippstavlen!
+24: Opprett
+25: Oppretter...
+26: Kjøp
+27: Ja
+28: Nei
+29: Fjern utvalg
+30: Av
+31: På
+32: Jeg forstår
+33: Merknad
+34: Jeg forstår, Aktiver
+35: Avskjed
+36: Rediger
+37: Søke...
+38: Skriv for å søke...
+39: Slå av og på redigeringsmodus
+40: Veksle mellom undertekster
+41: undertekst: På
+42: undertekst: Av
+43: Musikkvolum (lokalt):
+44: Stemmevolum (lokal):
+45: Lydvolum (lokal):
+46: Trykk for å begynne
+47: Stigende
+48: synkende
+49: Hjemme
+50: Veiledning
+51: no-klipp
+52: Enkel no-klipp flymodus, ideell for redigering.
+53: Teleporter
+54: Bruker teleportering for komfortabel bevegelse.
+55: Fly
+56: Flymodus med Fysisk
+57: Gå/løp
+58: Fysisk gang, løping og hopping.
+59: Gå / løp (med klatring)
+60: Fysisk gang, løping og hopping og klatring.
+61: Zero-G
+62: Vektløs fysisk bevegelse
+63: Grip Verden
+64: Oppretter et anker og beveger brukeren i forhold til den.
+65: gli
+66: Enkel skli bevegelse som klikker til overflaten hvis den er tilstede, flyr ellers.
+67: Ødelegge
+68: Duplisere
+69: Lagre til inventar
+70: Angre
+71: Gjøre om
+72: Equip
+73: Dequip
+74: Skalering aktivert
+75: Skalering deaktivert
+76: Tilbakestill skala
+77: Laser aktivert
+78: Laser deaktivert
+79: Grip: håndflaten
+80: Grab: Presisjon
+81: Grip: Auto
+82: Grab: Kun laser
+83: Bevegelse
+84: Ingenting
+85: Utstyr {navn}
+86: Verktøy
+87: Sette seg i Anker
+88: Stå opp fra Anker
+89: Utstyr Avatar
+90: Lagre som skjermbilde
+91: Eksporter skjermbilde
+92: Importer fil
+93: Eksporter fil
+94: Kopier lenke
+95: Åpen verden
+96: Utstyr
+97: Slett
+98: Lagre holdt
+99: Inventarer
+100: Del
+101: Stopp deling
+102: Lagre Avatar
+103: Sett hjem
+104: Sett fremdriftslinje
+105: Sett strømkontroller
+106: Sett tekstvisning
+107: Sett videospiller
+108: Sett lydspiller
+109: Sett kamera
+110: Sett tastatur
+111: Sett Avatar
+112: Sett innlastingslinje
+113: Sett fargevelger
+114: Angi URL-visning
+115: Spawn-fasett
+116: Hjem
+117: Verdener
+118: Kontakter
+119: Inventar
+120: Desktop
+121: Økten
+122: <nobr>Fil utforsker
+123: Innstillinger
+124: Avslutt
+125: Lim inn innhold fra utklippstavlen
+126: Slå av UI-redigeringsmodus
+127: Min Sky Hjem
+128: Avslutt {appName}
+129: Avslutt og lagre Hjem
+130: Avslutt & Forkast Hjem
+131: Stor takk til {name} for å sponse dette prosjektet!
+132: DU
+133: Dette prosjektet blir også muliggjort takket være disse menneskene:
+134: og mange flere!
+135: {name} (Det er deg! Takk!)
+136: Takk for at du bruker {appName}!
+137: Innsendt av: {name}
+138: {fps}<size=61.803%> FPS</size>
+139: Venter...
+140: verten begynner økten
+141: Laster inn...
+142: Mislyktes
+143: Lastet {assets} av {total_assets}
+144: Last ned {bytes} av {total_bytes}
+145: Oppretter forbindelse
+146: Ber om å bli med
+147: autentisering
+148: Tilkoblet
+149: synkroniserer den opprinnelige verdensstaten
+150: LNL Direct IP
+151: LNL NAT Punchthrough {n}
+152: LNL Stafett
+153: Steam-nettverkskontakter
+154: Tilgang nektet
+155: Sikkerhetsbrudd
+156: Kun registrerte brukere får lov til å bli med
+157: Bare kontakter av verten har lov til å bli med
+158: Kun kontakter til brukere i økten får være med
+159: Denne økten er privat
+160: Økten er avsluttet
+161: Økten har nådd brukergrensen
+162: mislyktes autentisering
+163: Kunne ikke godkjenne bruker-ID
+164: Kunne ikke hente autentiseringsinformasjon
+165: Det er allerede bedt om å Delta
+166: Kunne ikke koble til relé
+167: Kunne ikke opprette forbindelse
+168: Ugyldig adresse
+169: Ingen port spesifisert
+170: Inkompatibel {appName}-versjon
+171: Vert blokkert
+172: Du har blokkert verten
+173: Verden krasjet
+174: Fatal feil ved oppdatering av verden
+175: Ukjent feil
+176: Verdensnavn:
+177: Beskrivelse:
+178: Maksimum brukere:
+179: Mobilvennlig
+180: Verdens lagringsalternativer:
+181: Redigeringsmodus:
+182: Hvem kan bli med i denne verden?
+183: Autospark AFK-brukere:
+184: Maks AFK-minutter:
+185: Ikke vises i Øktlister
+186: Lagre automatisk (overskriver siste lagring):
+187: Lagre automatisk etter minutter:
+188: Opprydding ubrukte eiendeler:
+189: Oppryddingsintervall (sekunder):
+190: Startøkt
+191: Bli med
+192: Fokus
+193: Lukk verden
+194: Forlat verden
+195: Lagre endringer
+196: Lagre som...
+197: Lagre kopi...
+198: Lagre kopi
+199: Lagre til inventar
+200: Lagrer...
+201: Forkaste endringer
+202: kopiere Verden
+203: Slett verden
+204: Bekreft Slett
+205: SLETT PERMANENT
+206: Overskriv med {navn}
+207: bekreft overskriving
+208: Overskriver ...
+209: Lukk verden?
+210: Forlate verden?
+211: Lukk
+212: Forlate
+213: (kan ikke lukke denne verdenen)
+214:
+215: Du er verten for denne verden. Alle brukere blir koblet fra.
+216: Få verden kule
+217: Kopier verden URL
+218: Kopier post-URL
+219: Start tilpasset økt
+220: Rediger metadata
+221: Få økt sfære
+222: Kopier økt URL
+223: Ingen data
+224: Lokal maskin
+225: Av: {navn}
+226: Vert: {navn}
+227: Hoster
+228: {n,flertall, en {# økt} annen {# sessi
