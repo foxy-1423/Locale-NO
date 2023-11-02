@@ -225,4 +225,579 @@
 225: Av: {name}
 226: Vert: {name}
 227: Hoster
-228: {n,flertall, en {# økt} annen {# sessi
+228: {n,flertall, en {# session} annen {# sessions}}
+229: Brukere
+230: (ingen aktive økte funnet)
+231: Beskrivelse
+232: (ingen beskrivelse gitt)
+233: (besøkt)
+234: Aktive økter:
+235: Aktive brukere:
+236: <ny økt>
+237: Beskrivelse:
+238: Økt Informasjon
+239: Oppetid
+240: Synlighet
+241: Brukere
+242: {active}{borte, velge, 0 {} annen { (+{away} away)}} ut av {max}
+243: Verdensinformasjon
+244: Publisert
+245: Sist oppdatert
+246: Besøk
+247: Merker
+248: Handlinger:
+249: Alt
+250: Utvalgt
+251: Publiserte verdener
+252: aktiv økt
+253: Kontaktøkter
+254: Headless økter
+255: Sosial
+256: Spill
+257: Kunst
+258: Opplæringsprogrammer
+259: Pedagogisk
+260: Shuffle
+261: Mine verdener
+262: Tilpasset
+263: Gruppeverdener
+264: Alle
+265: registrerte brukere
+266: Kontakter
+267: Kontakter+
+268: LAN
+269: Privat (kun invitasjon)
+270: Søkeresultat
+271: Navn
+272: Åpnede verdener
+273: Totalt antall økter
+274: Totalt antall brukere
+275: Opprettelsesdato
+276: Endringsdato
+277: Publiseringsdato
+278: Totalt antall besøk
+279: Siste besøk
+280: Tilfeldig
+281: Datakilder:
+282: Åpnede verdener
+283: aktiv økt
+284: Publiserte verdener
+285: Lokale verdener
+286: Basesøk:
+287: Av eier:
+288: Eier er bruker
+289: Eier er gruppe
+290: Sendt til gruppen:
+291: Bare utvalgt
+292: Mine verdener
+293: Sesjonsfiltrering:
+294: Minimum brukere: <b>{n}</b>
+295: Minimum kontakter: <b>{n}</b>
+296: Bare Headless verter
+297: Maksimum tilgangsnivå
+298: Minimum oppetid:
+299: Sortering:
+300: Rediger verdensmetadata
+301: Verdensnavn:
+302: Beskrivelse:
+303: Tagger (kommaseparert):
+304: Verdenssti:
+305: Hvem kan åpne denne verden?
+306: Bare meg
+307: Patreon-supportere
+308: Alle (offentlig)
+309: Avatarskaper
+310: Kalibrator for hele kroppen
+311: Kamera / Streaming
+312: Skap ny verden
+313: Feilsøking
+314: Stream lyd
+315: Settopp 2FA
+316: Lag lydstrøm
+317: Start streaming
+318: Bitrate: {bitrate} kbps
+319: {username} lydstrøm
+320: Spatialisert
+321: Broadcast
+322: Spill for eier: Av
+323: Spill for eier: På
+324: Freeform Dash: På
+325: Freeform Dash: Av
+326: Sittende modus: På
+327: Sittende modus: Av
+328: Navneskilt: Alle
+329: Navneskilt: Ikke-kontakter
+330: Navneskilt: Skjul
+331: Bruk standard navneskilt
+332: Tillat egendefinerte navneskilt
+333: Online brukere: ~{num_total} ({num_registered})
+334: <color=hero.purple>{users}</color> {users, plural, one {user} other {users}} i VR
+335: <color=hero.cyan>{users}</color> {users, plural, one {user} other {users}} i skrivebordsmodus
+336: Cloud Status
+337: Bra
+338: Sakte
+339: Nede
+340: Ingen Internett
+341: Alt synkronisert
+342: Synkronisering {item_count,plural, one {# item} other {# items}} <nobr>({item_percent} %)
+343: Laster opp {variant_count,plural, one {# asset variant} other {# asset variants}}
+344: Synkroniseringsfeil! <size=50%>Sjekk logg for detaljer</size>
+345: Lagring full <size=61.803%>Kan ikke synkronisere</size>
+346: Lagring full
+347: {storage_used} av {storage_max}<br><size=61.803%>Lagringsplass brukt</size>
+348: (informasjon skjult mens du er live)
+349: Ugyldig legitimasjon
+350: Ugyldig legitimasjon
+351: Ugyldig enhetsinformasjon
+352: Manglende enhetsinformasjon
+353: Ugyldig enhetsinformasjon
+354: Ugyldig enhetsinformasjon
+355: Ingen legitimasjon oppgitt
+356: Ugyldig gjenopprettingskode
+357: Ikke støttet autentiseringsmetode
+358: E-post ikke bekreftet
+359: Kontoen din er låst.
+360: Kontoen din er utestengt.
+361: Duplikatkonto
+362: Manglende registreringsdetaljer
+363: Ugyldig e-postadresse
+364: Mangler brukernavn
+365: Manglende e-post
+366: Brukernavnet er for langt
+367: Brukernavn kan ikke inneholde @
+368: Brukernavn kan ikke begynne med U-
+369: Ugyldig brukernavn
+370: Ugyldig fødselsdato
+371: Brukernavn inneholder blokkerte ord
+372: Manglende passord
+373: Ugyldig passord
+374: E-post er allerede registrert
+375: Brukernavn er allerede registrert
+376: Feil ved kontroll av bruker-ID
+377: Logg Inn
+378: Logg ut
+379: Registrere
+380: Logg på med SAML 2.0
+381: Logg Inn / Registrere
+382: Er du sikker?
+383: Logger inn...
+384: Logger ut...
+385: Registrerer...
+386: Anonym
+387: Brukernavn:
+388: E-post:
+389: Husk meg:
+390: Gjenta e-post:
+391: Brukernavn eller e-post:
+392: Passord:
+393: Gjenta passord:
+394: Mistet Passord?
+395: <color=#f00>ADVARSEL:</color> live.com, hotmail.com, outlook.com og andre Microsoft-eide-tjenester kan opptil 1-2 dager sendes på e-post.
+396: (minst 8 tegn, 1 siffer, 1 liten bokstav, 1 stor bokstav)
+397: Jeg er 13 år eller eldre
+398: Mistet Passord
+399: Send gjenopprettingskode
+400: Tilbakestill passordet ditt
+401: En gjenopprettingskode er sendt til e-posten din. Kopier den til feltet under:
+402: Gjenopprettingskode:
+403: Nytt passord:
+404: Angi nytt passord
+405: Ber om...
+406: Passordene er ikke like!
+407: E-post er ikke like!
+408: Loggfeil:
+409: Suksess! Det er sendt en e-post med bekreftelseskobling. Når du har åpnet denne lenken, kan du logge på.
+410: Fødselsmåned:
+411: Fødselsdag:
+412: Fødselsår:
+413: Jeg godtar <color=#22B2FF>vilkårene for bruk</color> og <color=#22B2FF>personvernreglene</color>
+414: Logg på med en tredjepartstjeneste i stedet:
+415: SAML 2.0
+416: Velg SAML 2.0-leverandøren du ønsker og bruke:
+417: Venter på at påloggingen skal fullføres (sjekk nettleseren din)...
+418: Tofaktorautentisering
+419: Sjekker status for 2FA på kontoen din...
+420: Hemmelig kode
+421: Først må du legge inn en hemmelig kode til TOTP-autentiseringsappen din, for eksempel <b>Authy</b> eller <b>Google Authenticator</b>.<br><br>Vi anbefaler at du gjør dette ved å skanne QR-en kode, men alternativt kan du legge inn den hemmelige koden manuelt. <b>Del aldri denne koden med noen.</b><br><br>Hvis du er i VR, kan du bytte til skrivebordet ved å trykke F8.
+422: Skann QR-kode
+423: Hemmelig kode:
+424: Gjenopprettingskoder
+425: Lagre disse kodene på et sikkert sted. De kan brukes til å gjenopprette tilgang til kontoen din i tilfelle du mister eller skader telefonen. Hver kode kan bare brukes én gang. <b>Aldri del dem med noen.</b> Hvis du mister dem, vil du <color=red>PERMANENT</color> miste tilgangen til kontoen din.
+426: Koder:
+427: Aktiver 2FA
+428: For å aktivere 2FA på kontoen din, bruk det 6-sifrede tokenet generert av autentiseringsappen din for å sikre at alt fungerer som det skal.<br><br>Når den er aktivert, må du bruke koden for å bekrefte visse operasjoner.
+429: 6-sifret token:
+430: Skriv inn tokenet ditt her...
+431: Aktiver
+432: Aktiverer...
+433: Ugyldig token!
+434: 2FA er allerede satt opp på kontoen din!
+435: Uventet feil! Prøv igjen senere.
+436: <size=150%>Gratulerer!</size><br><br>Kontoen din er nå satt opp med 2FA for ekstra beskyttelse!<br><br>Du kan valgfritt aktivere dette for kontopålogging med /enableLogin2FA-kommandoen.
+437: Deaktiver 2FA
+438: 2FA er for øyeblikket <b><color=green>konfigurert og aktiv på kontoen din</color></b>. Hvis du trenger å deaktivere den (f.eks. på grunn av tap av telefonen eller kodene som er kompromittert), kan du gjøre det her.<br><br>Etter deaktivering kan du sette opp 2FA igjen, som vil generere en helt ny hemmelig kode og nytt sett med gjenopprettingskoder.<br><br>Hvis du mister telefonen og trenger å konfigurere 2FA igjen, anbefaler vi <b>STERKT</b> at du gjør det umiddelbart, siden hver gjenopprettingskode kun kan brukes én gang og etter at du går tom, vil du bli fullstendig utestengt fra kontoen din.
+439: Deaktiver
+440: Deaktiverer...
+441: 2FA har blitt deaktivert på kontoen din.<br><br>Kontoen din har nå økt risiko!<br><br>Vi anbefaler på det sterkeste å sette opp 2FA igjen umiddelbart, spesielt hvis du brukte en gjenopprettingskode på grunn av tap din telefon.
+442: Standardkonto
+443: Bedriftskonto
+444: Patreon-supporter
+445: {plattform} Mentor
+446: {plattform} Moderator
+447: {plattform} teamet
+448: LIVE
+449: 2FA-verifisering
+450: 6-sifret token:
+451: Online
+452: Borte
+453: Opptatt
+454: Usynlig
+455: Frakoblet
+456: Headless vert
+457: Innstillinger
+458: Brukere
+459: Tillatelser
+460: Standard anonym:
+461: Standardbesøk:
+462: Standard kontakt:
+463: Standard vert:
+464: brukeroverstyringer: {n,velge, -1 {---} annet {{n}}}
+465: Fjern brukeroverstyringer
+466: Aktiver Custom Join Verifier?
+467: <color=red>ADVARSEL:</color> Du er i ferd med å aktivere tilpasset deltakelsesverifisering som er en del av den nåværende verden. Før du gjør det, sørg for at du stoler på skaperen av verden, ettersom tilpasset verifikatoren kan omgå standard økttilgangsregler og tillate eller blokkere adgang for brukere ved å bruke sine egne regler.
+468: Bruk Custom Join Verifier: {name}
+469: <color=red>ADVARSEL:</color> For øyeblikket er det ingen mekanisme som forhindrer tukling med verifikatoren når den er aktivert. Hvis tukling med ProtoFlux-oppsettet for verifisering er en bekymring, IKKE BRUK denne funksjonen og IKKE AKTIVER den i dine verdener.
+470: Angi som egendefinert bekreftelse av forespørsel om bli med
+471: Du har ikke lov til å spawne ting her.
+472: Du har ikke lov til å lagre gjenstander i denne verden.
+473: Du har ikke lov til å bytte til egen avatar her.
+474: Stillhet
+475: Demp
+476: Hopp
+477: Respawn
+478: spark
+479: Ban
+480: Legg til kontakt
+481: Fjern Kontakt
+482: Virkelig fjerne?
+483: Aksepter forespørsel
+484: Ignorer forespørsel
+485: Inviter hit
+486: Tilbakekall invitasjon
+487: Ban fra ALLE mine økter
+488: Unban fra ALLE mine økter
+489: Ban fra denne verden
+490: Unban fra denne verden
+491: Tar opp stemme...
+492: Opphevet blokkering
+493: Blokker Avatar
+494: Gjensidig blokk
+495: Min konto
+496: Søk etter kontakter...
+497: Skriv en melding...
+498: I {name}
+499: I privat verden
+500: In Contacts Only World
+501: I skjult verden
+502: I Hidden, Contacts Only World
+503: I skjult, Contacts+ World
+504: I LAN World
+505: Bruker versjon {version}
+506: Forespørsel sendt
+507: Kontaktforespørsel
+508: Ignorerer
+509: Blokkert
+510: Søkeresultat
+511: Bot-konto
+512: Kontakten er ikke migrert
+513: Er nå online
+514: Er nå online <size=75%>(bruker versjon: {version})</size>
+515: Sendte en kontaktforespørsel
+516: Inviterer deg til:
+517: Sendte deg et element:
+518: Sendte en talemelding
+519: Sett filt {field_name} til {value}
+520: Angi referanse {ref_name} til {ref_target}
+521: Spawn {navn}
+522: Ødelegge {navn}
+523: Feste {component_type} på {slot_name}
+524: Dupliser Komponent
+525: Ødelegge {component_type} på {slot_name}
+526: Flyttet {navn}
+527: flytt
+528: flytt langs aksen
+528: flytt langs aksen
+529: Roter rundt aksen
+530: Tilbakestill posisjon
+531: Tilbakestill Rotasjon
+532: Tilbakestill Skala
+533: Grip objekter
+534: Ødeleggede gjenstander
+535: Dupliserte grepede objekter
+536: Endre størrelsen på boksen
+537: Penselslag
+538: Bytt farge
+539: Dupliser Komponent
+540: Bevege IK Bein
+541: Beveg Sola
+542: Påfør materiale
+543: Bake {name}
+544: Endre mesh
+545: Sett foreldre for {name}
+546: Evil Stuff
+547: Trekk ut materialer fra hierarki
+548: Batchkonvertere materialer
+549: Bytt farge
+550: Øk størrelse
+551: Reduser størrelse
+552: Lag ny...
+553: Utvalg: {modus}
+554: Utviklermodus: Av
+555: Utviklermodus: på
+556: Åpne inspektøren
+557: Opphev alle
+558: Ødelegg valgt
+559: VIRKELIG Øddelegge valgt
+560: Gizmo-alternativer
+561: Velg Foreldre
+562: Lokalt Space
+563: Global Space
+564: Forflyttelse
+565: Rotasjon
+566: Skala
+567: Fargevelger
+568: Sett skalerbar
+569: Angi ikke-skalerbar
+570: Sett Bruk på rot
+571: Sett Apply to Hit
+572: Marker Grippbar
+573: ikke Marker Grippable
+574: Sørg for å gå / løpe bevegelse
+575: Sørg for Zero-G-bevegelse
+576: Sørg for fysisk flytning
+577: Punkt
+578: Spot
+579: Sol
+580: se skygge
+581: Deaktiver skygge
+582: Aktiver skygge
+583: Sett til kun skygge
+584: Sett til dobbeltsidig skygge
+585: Legg til Slicer
+586: Slett oppsett
+587: Ray-modus
+588: Område-modus
+589: Objekt global modus
+590: Scene Global modus
+591: Skape kopi
+592: Rediger materiale
+593: Konvertere til...
+594: Konverter alle til...
+595: Skape ny
+596: Rediger nett
+597: Kast ut Orb
+598: WAV
+599: OGG Vorbis
+600: FLAC
+601: Hold for å ta opp
+602: Trykk for å starte/stoppe opptaket
+603: Raw
+604: Filtrert og normalisert
+605: Drive
+606: Kilde
+607: Referanse
+608: Skriv
+609: Proxy
+610: Opprett lokal
+611: Opprett butikk
+612: Opprett datamodelllager
+613: Veksle Oversiktsmodus
+614: Bla gjennom noder
+615: Pakk på plass
+616: Pakk inn i <size=50%>{name}</size>
+617: Pakk ut <size=50%>{name}</size>
+618: Eksplisitt Cast\n<size=50%>(<color=red>Advarsel:</color> Potensielt datatap)</size>
+619: Ring
+620: <size=50%>Asynkronisk</size> anrop
+621: ProtoFlux-noder
+622: <<< <i>Tilbake</i>
+623: Tom gjenstand
+624: Partikkelsystem
+625: Gjenstandt
+626: Avatarskaper
+627: Kamera
+628: Refleksjonssonde
+629: Spill
+630: Portal
+631: Videospiller
+632: Spawn område
+633: Spawn punkt
+634: UIX Lerret
+635: Fasett
+636: Tåkevolum
+637: additiv
+638: Alpha
+639: Multiplikativ
+640: Gradient
+641: Tekst
+642: Grunnleggende
+643: Outline
+644: Edditor
+645: Brukerinspektør
+646: Veiviser for lys kilder i verden
+647: Veiviser for gjengivelse av verdenstekst
+648: Veiviser for aktivaoptimalisering
+649: Cubemap Creator
+650: Refleksjonssondeveiviser
+651: 3D-modell
+652: Trekant
+653: Boks
+654: Kuleu
+655: Kapsel
+656: Kjegle
+657: Sylinder
+658: Quad
+659: Rutenett
+660: Torus
+661: Collider
+662: Boks
+663: Kule
+664: Kapsel
+665: Sylinder
+666: Kjegle
+667: Mesh
+668: Lys
+669: Punkt
+670: Spot
+671: Retningsbestemt
+672: Materialer
+673: Opprett ny Mappe:
+674: Vennligst oppgi et navn:
+675: Navnet er for langt:
+676: Ugyldig navn:
+677: Avatar Skaper
+678: Juster avatarobjekter med hodesett- og kontrollerhenvisninger (valgfritt) og trykk på Skape for å konvertere dem til en avatar
+679: Bruk Symmetri
+680: Vis verktøyankre
+681: Oppsett volummåler
+682: Oppsett øyer
+683: Konfigurer ansiktssporing
+684: Beskytt avatar
+685: Kalibrer føttene
+686: Kalibrer pelvis / hoftet
+687: Juster hodet fremover
+688: Juster hodet opp
+689: Juster hodet til høyre
+690: Senterhodeposisjon
+691: Prøve auto-Tilpasse Hender
+692: Juster verktøyankre
+693: Skape
+694: Råfil
+695: Mappeimportør
+696: Individuell import
+697: Oppretter en separat importdialog for hver støttet fil i mappen
+698: Batchimport
+699: Laget en enkelt importør for hver type, med samme innstillinger for hver fil
+700: Minecraft Verden
+701: Importerer en Minecraft Verden hvis Mineways er installert.
+702: Bildeimportør
+703: Hva vil du importere?
+704: Bilde / Tekstur
+705: Skjermbilde <size=50%>(fanget her)</size>
+706: Pixel Art
+707: 360 foto / skybox
+708: Stereobilde
+709: Stereo 360-bilde
+710: 180 bilde
+711: Stereo 180 foto
+712: LUT
+713: Hvilken layout bruker det?
+714: Side om Side LR
+715: Side om Side RL
+716: Top Bunn LR
+717: Top Bunn RL
+718: Modellimportør
+719: Hva importør du?
+720: 3D-modell
+721: 3D-skanning
+722: CAD-modell
+723: Punktsky
+724: Vertex Farget Modell
+725: Avansert Instillinger
+726: Hva slags 3D modell?
+727: Regulær / Avatar
+728: Kan separeres med skjærbare deler
+729: Hvilke enheter er det i?
+730: Auto Skala (ukjent skala)
+731: Auto Menneskelig høyde
+732: Meter (m)
+733: Millimeter (mm)
+734: Centimeter (cm)
+735: Tommer
+736: Alt klart?
+737: Kjør Import!
+738: Skala:
+739: Auto Skala
+740: Max Textur Størrelse
+741: Bildeformat:
+742: Materiale:
+743: Foretrekker Specular
+744: Rette Akser:
+745: Kalkuler Normaler
+746: Kalkuler Tangenter
+747: Importør Vertex Farge
+748: Importør Bein
+749: Importør lys
+750: Kalkuler Textur Alfa
+751: Importør Albedo Farge
+752: Importør Emisjon
+753: Generer Colliders
+754: Importør Animasjoner
+755: Sett opp som snappable
+756: Sett opp som timelapse
+757: Importør ekstern teksturer
+758: Importør skinnede netting
+759: Sett opp IK
+760: Visualiser Rigg
+761: Tvinge T-Pose
+762: Som Punktsky
+763: Gjør Dobbelt Sidet
+764: Gjør Flat Skygget
+765: Dedupliserte forekomster (sakte)
+766: Optimeringsmodell/Scene
+767: Delte undermasker
+768: Generer Tilfeldige Farge
+769: Lag Material Kule
+770: Importør Bilder etter Navn
+771: Tving punktfiltrering
+772: Ingen MipMaps
+773: Tving ukomprimert
+774: Gjør Gripelig
+775: Gjør Skalerbar
+776: posisjonere På Oprinnelse
+777: Plaser Ressurs På Objekt
+778: Videoimportør
+779: Hva importør du?
+780: Video
+781: 360 video
+782: Stereovideo
+783: Stereo 360 Video
+784: Dypbde Video
+785: 180 Video
+786: Stereo 180 Video
+787: Dybde forhåndsinnstilling
+788: Standard
+789: Eksport
+790: Filnavn:
+791: Eksporter som:
+792: Eksport
+793: Eksporterer...
+794: Ny Verden
+795: Ny økt
+796: Verden Mal:
+797: Tilpasset forhåndsinnstilling:
+798: Sesjon Instillinger:
+799: Utrygt Modus:
+800: Port:
+801: Auto:
+802: {navn} Verden
