@@ -26,6 +26,7 @@ class LocaleCleaner:
     def make_footer(self):
         self.output.append('        "Dummy": "Dummy"')
         self.output.append('    }')
+        self.output.append('}')
         self.output.append('')
 
     def find_start(self):
@@ -45,9 +46,7 @@ class LocaleCleaner:
             key = line.strip().split(':')[0].strip().replace('"','')
             if key in self.lang["messages"]:
                 blank = False
-                translation = self.lang["messages"][key]
-                if isinstance(translation, str):
-                    translation = translation.replace('\n', '\\n').replace('"', '\\"')
+                translation = self.lang["messages"][key].replace('\n','\\n').replace('"','\\"')
                 self.output.append('        "{}": "{}",'.format(key, translation))
             elif blank == False:
                 self.output.append('')
@@ -73,3 +72,4 @@ if __name__ == "__main__":
     N = LocaleCleaner(args.en, args.lang, args.out)
     N.run()
     print("Cleaned!")
+
