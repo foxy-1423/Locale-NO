@@ -82,7 +82,7 @@
 82: Grab: Kun laser
 83: Bevegelse
 84: Ingenting
-85: Utstyr {navn}
+85: Utstyr {name}
 86: Verktøy
 87: Sette seg i Anker
 88: Stå opp fra Anker
@@ -518,12 +518,12 @@
 518: Sendte en talemelding
 519: Sett filt {field_name} til {value}
 520: Angi referanse {ref_name} til {ref_target}
-521: Spawn {navn}
-522: Ødelegge {navn}
+521: Spawn {name}
+522: Ødelegge {name}
 523: Feste {component_type} på {slot_name}
 524: Dupliser Komponent
 525: Ødelegge {component_type} på {slot_name}
-526: Flyttet {navn}
+526: Flyttet {name}
 527: flytt
 528: flytt langs aksen
 528: flytt langs aksen
@@ -648,7 +648,7 @@
 647: Veiviser for gjengivelse av verdenstekst
 648: Veiviser for aktivaoptimalisering
 649: Cubemap Creator
-650: Refleksjonssondeveiviser
+650: Refleksjonsprobeveiviser
 651: 3D-modell
 652: Trekant
 653: Boks
@@ -782,7 +782,7 @@
 781: 360 video
 782: Stereovideo
 783: Stereo 360 Video
-784: Dypbde Video
+784: Dybde Video
 785: 180 Video
 786: Stereo 180 Video
 787: Dybde forhåndsinnstilling
@@ -800,4 +800,879 @@
 799: Utrygt Modus:
 800: Port:
 801: Auto:
-802: {navn} Verden
+802: {name} Verden
+803: kroppskalibrering
+804: 1) Still inn høyden din
+805: Pass på at dette er din faktiske høyde, ellers vil ikke kalibreringen fungere riktig. Dukken skal passe til headsettet og kontrollerene.
+806: Dette virker feil. Pass på at det er din faktiske høyde.
+807: 2) Bekreft Tracker kartlegging
+808: Stå i oppreist stilling og sørg for at sporerne sporer og detekteres riktig.
+809: Start Tracker Calibration
+810: Bare kalibrer avataren min
+811: Hopp over kroppskalibrering og bare kalibrer avataren
+812: Hopp over og juster avatar
+813: Sett deg på linje med det røde kroppsoverlegget i spilleområdet ditt og trykk på begge triggere for å bekrefte. Sørg for at dine virkelige føtter og hofter matcher de virtuelle så nært som mulig.
+814: Sørg for at Trackerne sporer og at høyden din er Riktig
+815: Still deg inn etter referansen og trykk på begge triggere for å bekrefte
+816: Juster avatar forskyvninger slik at de passer best med referansen
+817: Bekreft og finjuster kalibreringen ved å flytte blå referans Punkter
+818: Kalibrer Trackerne
+819: Grip og plasser de blå kroppsdelene i forhold til trackerne for å justere offset. De bør samsvare med plasseringen til sporeren på kroppen din.
+Du kan justere kalibreringen når som helst senere ved å åpne dette verktøyet på nytt.
+820: Bruk symmetri
+821: Vis kroppsoverlegg
+822: Hvis dukken er for høy (krukket) eller for kort, juster høydekompensasjonen.
+823: Manglede eller manglende sporere?
+824: Kjør T-Pose-kalibrering igjen
+825: Trenger du å justere avatar formen?
+826: Kalibrer min avatar
+827: Alt bra?
+828: Fullfør kroppskalibrering
+829: Kalibrer Avatar
+830: Sørg for at alle kroppsdeler er kartlagt, og dra deretter de blå kulene rundt, for å få avataren til å matche kroppsreferansen best.
+831: Vis referanseoverlegg
+832: Avatar ødelagt eller spores ikke?
+833: Tilbakestill kartlegging
+834: Hvis avataren er for høy (ender opp bøyd) eller for kort til at du justerer høydekompensasjonen her slik at den passer bedre til høyden din.
+835: Avatarhøydekompensasjon: {n, tall, prosent}
+836: Tilbakestill høydekompensasjon
+837: Ikke glem å lagre avataren din etter at du er ferdig med å kalibrere den!
+838: Fullfør Avatar-kalibrering
+839: Hvis du er fornøyd med kalibreringen, kan du lagre avataren din nå og avslutte.
+840: Lukk kalibrator
+841: Hvis kalibreringen er av eller du ønsker å kalibrere flere avatarer, kan du gjøre flere justeringer. Du kan også åpne denne kalibratoren på nytt når som helst i fremtiden for å gjøre justeringer.
+Hvis du bare har endret sporing, trenger du ikke å kalibrere avatarene igjen.
+842: Gå tilbake til sporingskalibrering
+843: Hofter
+844: Føtter
+845: Bryst
+846: Albuer
+847: Knær
+848: Tracker kartlagt
+849: Sporer ikke...
+850: Ingen Tracker kartlagt
+851: Føtter sporer ikke...
+852: Kartlagt
+853: Ikke kartlagt
+854: Ingen Tracker
+855: Kamerakontroll
+856: SPEILING AV
+857: Speil til skjerm
+858: Foto
+859: 360 Foto
+860: Glatt POV
+861: Tredje Person
+862: Gruppe
+863: Verden
+864: Manual
+865: Unngå okklusjon
+866: Hold I Worldspace
+867: Bevegelse Wobbble
+868: Sikt framfør hode
+869: Skjul Kamera
+870: Tving øynene på kameraet
+871: Skjul Merker
+872: Skjul Lasere
+873: Vis Frustum
+874: Foto Timer
+875: Vis Live Merke
+876: Lyd fra kameraets synspunkt
+877: Brukere
+878: Skape Kamera Anker
+879: Interpoler mellom ankre
+880: Ankerinterpolasjonshastighet:
+881: Lineær interpolasjon
+882: Ingen kamera ankere i denne verden
+883: Synsfelt
+884: Vinkel Forskyvning
+885: Avstand
+886: Høyde
+887: Første Person Helling
+888: Første Person Rull
+889: Første Person Forskyvning
+890: Tilbakestill
+891: Alle kan bruke
+892: Render forhåndsvisning for alle
+893: Render privat brukergrensesnitt
+894: Motion Blur
+895: Screen Space refleksjoner
+896: Spawn bilde i verden
+897: Flip Forhåndsvisning
+898: Gruppedeteksjonsradius: {n} m
+899: Gruppeekskluderingsgrense: {n} m
+900: Posisjon jevn hastighet: {n}
+901: Vinkel jevn hastighet: {n}
+902: Glatt innrammingshastighet: {n}
+903: OBS Websocket IP:
+904: OBS-passord (valgfritt):
+905: Koble til
+906: Kontroller at OBS kjører og har obs-websocket plugin installert
+907: Åpne installasjonswebsiden
+908: Start OBS
+909: starter...
+910: startet!
+911: Kobler til...
+912: Tilkoblet!
+913: Koblet fra!
+914: Autentiseringsfeil!
+915: Tilkobling mislyktes:
+916: Tidsavbrudd for tilkobling. Kjører OBS med websocket-plugin installert?
+917: Uventet tilkoblingsfeil:
+918: OBS frakoblet
+919: Gå tilbake til tilkoblingssiden
+920: Autospeil på opptak/strøm
+921: Bitrate: {n}/s
+922: FPS: {n}
+923: Dropped frames: {n}
+924: IDLE
+925: LIVE
+926: REC
+927: Denne nettsiden lar deg laste ned OBS websocket-plugin
+928: Start streaming
+929: Starter strømming...
+930: Stopp streaming
+931: Stopp streaming
+932: Start opptak
+933: Starter opptak...
+934: Stopp opptak
+935: Stoppe opptaket
+936: Min høyde:
+937: Metrisk (cm)
+938: Imperial (ft)
+939: Overstyr lokalitet:
+940: Skjul alle opplæringsprogrammer
+941: Vis interaksjonstips
+942: Primærkontroller
+943: VR Hotswitching
+944: Tillat Strafing
+945: Bruk Head Direction for bevegelse
+946: Glatt sving
+947: Eksklusiv modus for jevn sving
+948: Jevn svinghastighet
+949: Snap Turn Angle
+950: No-clip Speed
+951: Hastighetseksponent
+952: bevegelses Døsone
+953: Kontrollervibrasjon
+954: Haptics Feedback
+955: Deaktiver fysiske interaksjoner
+956: Aktiver Gester
+957: Dobbeltklikkintervall
+958: Tilbakestill alle opplæringsprogrammer
+959: Foretrekk Steam-nettverkskontakter
+960: Deaktiver LAN
+961: Aktiver Legacy Double Grip Equip
+962: Aktiver Legacy World Switcher
+963: Vis inkompatible økter
+964: Ikke send sanntids leststatus for meldinger
+965: Maks. samtidige aktivaoverføringer
+966: Automatisk lagring av skjermbildebane
+967: Lagre ALLE skjermbilder automatisk i verden
+968: Debug Input Bindings
+969: Laserutjevning
+970: Jevn hastighet
+971: Moduler startvinkel
+972: Moduler endevinkel
+973: Moduler eksponent
+974: Modulate Speed Multiplikator
+975: Stikkterskel
+976: Vis laser i skrivebordsmodus
+977: Tilbakestill laserinnstillinger
+978: Lyd
+979: Lydinngangsenheter
+980: Hovedvolum: {n,number,percent}
+981: Lydeffekter: {n,number,percent}
+982: Multimedia: {n,number,percent}
+983: Stemme: {n,number,percent}
+984: Brukergrensesnitt: {n,number,percent}
+985: Deaktiver stemmenormalisering
+986: Noise Gate Threshold: {n}
+987: Normaliseringsterskel: {n}
+988: Støydempingsfilter (RNNoise)
+989: Whisper Voice Volum (utenfor boble): {n,number,percent}
+990: Lydinngangsenhet:
+991: Lydutgangsenhet:
+992: Velg Audio Input Device
+993: Velg Audio Output Device
+994: Test lydinngangen din:
+995: Vi spiller av lyden fra den valgte lydenheten tilbake til deg, slik at du kan bekrefte at den er riktig.
+996: Lytt til enheten/n<size=50%>(sjekk mikrofon / lyd inn)</size>
+997: Stopp testing
+998: Overvåking av lydinngang:
+999: Bruk systemstandard
+1000: Desktop FOV
+1001: UI språk
+1002: Endre språk
+1003: Velg språk:
+1004: System standard
+1005: Lagre innstillinger
+1006: Helkroppssporing:
+1007: Utjevning av fotposisjon
+1008: Utjevning av fotrotasjon
+1009: Utjevning av hofteposisjon
+1010: Utjevning av hofterotasjon
+1011: Dash
+1012: Kurvatur
+1013: Åpne/lukkehastighet
+1014: Leap Motion
+1015: Leap Sporing aktivert
+1016: Horisontal forskyvning
+1017: Vertikal forskyvning
+1018: Forskyvning fremover
+1019: Kontroller hånd snap avstand
+1020: Bruk fingrene når du knipser
+1021: Vive håndsporing sporing
+1022: Vive håndsporing aktivert
+1023: Vive Hand Tracking Snap Distance
+1024: Bruk Vive Fingere imens Snappet
+1025: Windows-integrasjon
+1026: Linux-integrasjon
+1027: Behold originalt skjermbildeformat
+1028: Når aktivert, vil ikke skjermbilder konverteres til JPG når de lagres i Dokumenter-mappen
+1029: Ekstern Link
+1030: <b><size=125%>Advarsel: Utgående hyperkobling</size></b>/nDu har klikket på en lenke i en verden. Vil du åpne den? Dette åpnes i nettleseren på skrivebordet.
+1031: Åpen
+1032: Avbryt
+1033: Vertstilgang
+1034: <b><size=125%>Advarsel: Verden prøver å få tilgang til tredjepartsvert</size></b>/nÅ tillate tilgang kan tillate tredjeparten å samle inn personlig informasjon, som din IP og geografiske plassering.
+1035: Målvert: <b>{host}</b>
+1036: Årsak: {reason}
+1037: <i>Ingen grunn oppgitt</i>
+1038: Tillat
+1039: Nekter
+1040: < (tilbake)
+1041: Komponenter
+1042: Opprett egendefinert type
+1043: Vanlige generiske typer
+1044: Egendefinerte generiske argumenter:
+1045: Ugyldig type
+1046: Sceneinspektør
+1047: Feste komponent
+1048: X: <b>+</b>Høyre <b>-</b>venstre
+1049: Y: <b>+</b>Opp <b>-</b>Ned
+1050: Z: <b>+</b>Forover <b>-</b>bakover
+1051: Tilbakestill:
+1052: Position
+1053: Rotasjon
+1054: Målestokk
+1055: Lag pivot i sentrum
+1056: Hopp til
+1057: Ta med til
+1058: Ta med {name} til brukeren
+1059: Foreldre under:
+1060: Verdensrot
+1061: Forelder {name} under verdensrot
+1062: Lokalt brukerområde
+1063: Forelder {navn} under lokalt brukerområde
+1064: Mesh-statistikk
+1065: Toppunkttelling: {n}
+1066: Trekantantall: {n}
+1067: Poengtelling: {n}
+1068: Submesh-antall: {n}
+1069: Beintelling: {n}
+1070: Blendshape Count: {n}
+1071: Normaler: {normals}, Tangenter: {tangents}, Farger: {colors}, UV0: {uv0}, UV1: {uv1}, UV2: {uv2}, UV3: {uv3}
+1072: Bake Mesh
+1073: Setup Renderer
+1074: Resave Mesh
+1075: Beregn normaler på nytt
+1076: Beregn normaler på nytt (jevn skyggelegging)
+1077: Beregn Tangenter på nytt (Mikktspace)
+1078: Beregn Tangenter på nytt (enkel)
+1079: Beregn blandingsnormaler på nytt
+1080: Beregn Blendshape Normaler på nytt (jevn skyggelegging) 
+1081: Beregn Blendshape Tangenter på nytt (Mikktspace)
+1082: Flip Normaler
+1083: Omvendt vikling
+1084: Gjør dobbeltsidig
+1085: Konverter til flat skyggelegging
+1086: Konverter til konveks skrog
+1087: Konverter til punktsky
+1088: Sammenslå dobler
+1089: Strip tomme Blendshapes
+1090: Strip tomme Blendshape Normaler
+1091: Strip tomme Blendshape Tangenter
+1092: Slå sammen Blendshapes
+1093: Få beinliste
+1094: Få beindata
+1095: Trim Vertex-benvekter til:
+1096: {n,plural, one {# Bone} other {# Bones}}
+1097: Multiplikator:
+1098: Skaler UV-er
+1099: Slå sammen submeshes med samme materiale
+1100: Del opp i separate mesher etter materiale
+1101: Konveks Hulldekomponering (V-HACD 2.0)
+1102: Bytt ut med Box Collider
+1103: Oppdater bevegelsesmoduler på brukere
+1104: Sammenslåingsdobler
+1105: Oppløsning
+1106: Dybde
+1107: Konkavitet
+1108: Nedsampling av Plane
+1109: Konveks Hullnedsampling
+1110: Alfa
+1111: Beta
+1112: Gamma
+1113: Delta
+1114: PCA
+1115: Maks Vertices per Hull
+1116: Min Volum Per Hull
+1117: Konveks Hulltilnærming
+1118: Dekomponeringsmodus:
+1119: Voxel
+1120: Tetraeder
+1121: Kjør dekomponering
+1122: Fjern visuelle elementer
+1123: Fjern Hull
+1124: Bake refleksjoner
+1125: Baking...
+1126: Separer deler av meshet upåvirket av blendshapes
+1127: Strip tomme blendshapes
+1128: Ferdig! Strippet: {n,plural, one {# blendshape} other {# blendshapes}}
+1129: Strip tomme bein
+1130: Ferdig! Strippet: {n,plural, one {# bone} other {# bones}}
+1131: Bake ikke-drevne blendshapes
+1132: Bakte BlendShapes: {n}
+1133: Visualiser bein avgrensningsbokser
+1134: Visualiser omtrentlige sammenslåtte beins grenser
+1135: Fjern avgrensningsbokser
+1136: Beregn eksplisitte grenser fra gjeldende positur
+1137: Utvid eksplisitte grenser fra gjeldende positur
+1138: Bake til statisk mesh
+1139: Fjern alle instans
+1140: Fjern enkeltinstans
+1141: <color=red><size=150%>ADVARSEL!</size></color><br>Hvis du fjerner denne komponenten på andre måter enn de dedikerte knappene nedenfor, vil beskyttelsesmekanismen utløses og føre til selvdestruksjon og potensial tap av data!
+1142: FJERN Avatarbeskyttelse
+1143: Få rigg diagnose info
+1144: Generer feilsøking visuals
+1145: Slett feilsøking visuals
+1146: Oppdag håndrigg
+1147: Oppdag venstrehåndsrigg
+1148: Oppdag høyrerigg
+1149: Ferdig! Har venstre: {left}, har høyre: {right}
+1150: Ferdig! Oppdaget venstre: {detected}
+1151: Ferdig! Oppdaget rett: {detected}
+1152: Størrelse: {width} x {height}
+1153: Format: {format}, Minne: <nobr>{memory}</nobr>
+1154: Variant-ID: {variant}
+1155: Baketekstur
+1156: Inverter RGB
+1157: Inverter R
+1158: Inverter G
+1159: Inverter B
+1160: Inverter Alpha
+1161: Farge til Alpha (hvit)
+1162: Farge til Alpha (svart)
+1163: Alpha fra intensitet
+1164: Alpha til maske
+1165: Fjern Alpha
+1166: Konverter til gråtoner (gjennomsnitt)
+1167: Konverter til gråtoner (luminans)
+1168: Bytt R og G
+1169: Bytt R og B
+1170: Bytt R <--> A
+1171: Bytt G og B
+1172: Bytt G <--> A
+1173: Bytt B <--> A
+1174: Legg til hvit bakgrunn
+1175: Legg til svart bakgrunn
+1176: Hue:
+1177: Skift Hue
+1178: Metning:
+1179: Juster metning
+1180: Verdi:
+1181: Juster verdi
+1182: Gamma:
+1183: Juster gamma
+1184: Lengste side:
+1185: Endre størrelse
+1186: Vend horisontalt
+1187: Vend vertikalt
+1188: Roter 90° CW
+1189: Roter 90° CCW
+1190: Roter 180°
+1191: Trim Transparency
+1192: Trim etter hjørnefarge
+1193: Gjør Square
+1194: Til nærmeste to potens
+1195: Gjør flisbar (overgangsforhold):
+1196: Flis (løkke)
+1197: Flis (speil)
+1198: Normaliser (kun maks)
+1199: Normaliser (min og maks)
+1200: Normaliser RGB uavhengig (min og maks)
+1201: Bleed Color To Alpha
+1202: Diagnostikk: Ugyldige floats
+1203: Diagnostikk: Generer bitmapmetadata
+1204: Variant: {variantID} (Rå: {rawVariantID})
+1205: Venter på søknad: {waiting}
+1206: Bake lydklipp
+1207: Samplingsfrekvens: {rate} Hz, kanaler: {channels} ({channel_count})
+1208: Varighet: {duration}, SampleCount: {samples}
+1209: Kodekinfo: {info}, fullstendig dekodet: {decoded}
+1210: Normaliser volum
+1211: Amplitudeterskel:
+1212: Trim Silence
+1213: Trimstartstillhet
+1214: Trim End Silence
+1215: Posisjon/varighet (i sekunder):
+1216: Trimstart
+1217: Trimslutt
+1218: Legg til Fade In
+1219: Legg til Fade Out
+1220: Gjør Loopbar (ved bruk av crossfade)
+1221: Konverter til WAV
+1222: Konverter til OGG Vorbis
+1223: Konverter til FLAC
+1224: Denoise (RNNoise, optimalisert for stemme på 48 kHz)
+1225: Trekk ut sider (kan fjerne vokal på stereospor)
+1226: Tilgjengelige prøver: {samples}, savnet: {missed}, lengde: {length}, global indeks: {index}
+1227: Tilgjengelig for å kode: {samples}, rammestørrelse: {frame} (maks: {max_frame}), samplingsfrekvens: {rate}
+1228: Totalt antall pakker: {total}, totalt tapte pakker: {lost}, pakketap:  {loss, number, percent}
+1229: Gj.sn. kodek: {avgCodec}/s, Gj.sn. lest: {avgRead}/s, Gj.sn. skrevet: {avgWritten}/s
+1230: Oppsett fra barn
+1231: Oppsett fra barn (tving alle)
+1232: Oppsett fra barn (kun rigg)
+1233: Erstatt glatte transformasjoner hos barn
+1234: Klare, jevne forvandlinger hos barn
+1235: ------- Colliders & Grabbing -------
+1236: Legg til faste kollidere fra hierarki (ved hjelp av objektrot)
+1237: Grip alltid det siste beinet
+1238: Opprydding av beinkolliderer
+1239: Generer debug visuals
+1240: Slett debug visuals
+1241: Auto Tildel Blendshapes (ved hjelp av heuristikk)
+1242: <color=red><size=150%>ADVARSEL!</size></color><br>Det er mulig å bruke denne komponenten som en enkel rigidbody ved å krysse av for SimulateRotation. Før du gjør det, vær så snill å forstå at den ikke er optimalisert for dette formålet, og riktig Rigidbody Support kommer i fremtiden.<br>Riktig rigidbody-støtte vil tilby:<br><b>- CPU og nettverkseffektivitet</b> - med CharacterController vil du få høyere CPU-bruk og betydelig mengde nettverkstrafikk<br><b>- Begrensninger</b> - du vil kunne lage ledd, hengsler, fjærer og andre begrensninger mellom stive legemer<br><b >- Jevn simulering og interaksjoner for alle</b> - CharacterController vil feile hvis en annen person prøver å samhandle<br><b>- Nye funksjoner og verktøy</b> - for å gjøre bruken mye enklere<br>-- ---------------------<br>Så lenge du forstår disse begrensningene, ha det gøy!
+1243: <color=red><size=150%>ADVARSEL!</size></color><br>Det er mulig å bruke denne komponenten til å samhandle med referanser ved å bruke deres IDer. Denne prosessen kalles vanligvis 'Ref Hacking'.<br><br><b>Før</b> du gjør dette, må du forstå at dette <b>ikke</b> støttes og kan gå i stykker når som helst. Ikke stol på denne funksjonaliteten for kreasjonene dine.
+1244: Vanlige overgangsmaler:
+1245: Alpha Fade In og Fade ut
+1246: Alpha Fade In
+1247: Alpha Fade ut
+1248: Intensitet fade inn og fade ut
+1249: Intensitet fade inn
+1250: Intensitet fade ut
+1251: Clear fades
+1252: Sett fra lokale grenser
+1253: Sett fra globale grenser
+1254: Sett fra lokale grenser (nøyaktig)
+1255: Sett fra globale grenser (nøyaktig)
+1256: Sett fra presise grenser
+1257: Sett fra presise sylindergrenser
+1258: Visualiser Collider
+1259: Sett til borte (feilsøking)
+1260: Gjenopprett til normal (feilsøking)
+1261: Drive
+1262: Drive <size=50%>(skriv tilbake)</size>
+1263: Kopier komponent
+1264: Flytt komponent
+1265: Brukerinspektør
+1266: {name} Inspektør
+1267: Ny
+1268: Prosessrot:
+1269: Resultat:
+1270: Ingen rot valgt
+1271: Fjernet {n}
+1272: Veiviser for aktivaoptimalisering
+1273: Rydd opp ubrukte eiendeler
+1274: Rydd tomme spor
+1275: Cleanup Disabled Mesh Renderers
+1276: Dedupliserte materialer
+1277: Oppryddingsfilelementer
+1278: Angi maksimal teksturoppløsning
+1279: Komprimer teksturer på nytt
+1280: Beregn alle normaler på nytt
+1281: Beregn alle normaler på nytt (sammenslått)
+1282: Recalculate All Tangents (Mikktspace)
+1283: Endret størrelse {n}
+1284: Veiviseren for lyskilder
+1285: Scene lyskilder
+1286: Prosessrot:
+1287: Punktlys:
+1288: Spotlights:
+1289: Retningslys:
+1290: Deaktiverte lys:
+1291: Med tag:
+1292: Angi skyggetype
+1293: Endre intensitet
+1294: Endre rekkevidde
+1295: Aktiver
+1296: Deaktiver
+1297: Ødelegg
+1298: Cubemap Creator
+1299: Kildeteksturer:
+1300: Merk at noen konvensjoner har byttet om på venstre og høyre. Hvis det resulterende kubekartet er feil, kan du prøve å bytte venstre og høyre tekstur.
+1301: Positiv X (høyre)
+1302: Negativ X (venstre)
+1303: Positiv Y (øverst)
+1304: Negativ Y (nederst)
+1305: Positiv Z (foran)
+1306: Negativ Z (bak)
+1307: Topp/bunn rotasjon:
+1308: Refleksjonssondeveiviser
+1309: Prosessrot:
+1310: Prosess deaktivert
+1311: Med tag:
+1312: Teleporter meg til hver probe
+1313: Forsinkelse mellom sonder
+1314: Vis feilsøkingsbilder
+1315: Skjul feilsøkingsbilder
+1316: Bakeprober
+1317: Baking {index} av {count}...
+1318: TextRenderer Wizard
+1319: Prosessrot:
+1320: Prosess frittstående
+1321: ProcessUIX
+1322: Prosess deaktivert
+1323: Med tag:
+1324: Bytt ut materiale
+1325: Erstatt skrift
+1326: Sett farge
+1327: Skrivebordskontroller
+1328: Åpne tastatur
+1329: Følg markør: På
+1330: Følg markør: Av
+1331: Eldre inngang: På
+1332: Eldre inngang: Av
+1333: Lysstyrke: {n,number,percent}
+1334: Opasitet: {n,number,percent}
+1335: Høydepunkt
+1336: Skive
+1337: Velkommen!
+1338: Dykk inn i et helt nytt digitalt univers med uendelige muligheter. Enten du kommer hit for å sosialisere og henge med mennesker rundt om i verden eller for å bygge, skape og utvikle alt fra vakker kunst, interaktive avatarer og dingser, til komplekse interaktive verdener og spill, er Resonite et uendelig tilpassbart sted hvor du vil være velkommen og hvor du vil finne en gruppe å resonere med.<br><br>Før du begynner å utforske, vil vi først veilede deg gjennom å sette opp noen grunnleggende ting for å sikre en jevn opplevelse. Når du er klar, klikker du på knappen nedenfor
+1339: La oss begynne!
+1340: {appName}-konto
+1341: Å opprette en konto gir deg 1 GB gratis lagringsplass og tilgang til å lagre elementer, favorittavatarer, legge til kontakter og meldinger.
+1342: Opprett konto
+1343: Jeg har allerede en konto
+1344: Fortsett uten konto
+1345: Vil du hoppe over å opprette en konto?
+1346: Enkelte funksjoner som å lagre items til inventar, favorittavatar eller legge til kontakter vil ikke være tilgjengelig.
+1347: Hopp virkelig over
+1348: Grunnleggende preferanser
+1349: Du kan konfigurere grunnleggende bevegelser og brukerpreferanser. Alle disse kan endres på et senere tidspunkt.
+1350: Snustil
+1351: Snap
+1352: Festes umiddelbart til ny vinkel, ideell for nye brukere
+1353: Smooth
+1354: Snus gradvis, men kan gi kvalme.
+1355: Primær Kontroller
+1356: Venstre
+1357: <b>Venstre:</b> Sving, <b>Høyre:</b> Strafe
+1358: Høyre
+1359: <b>Venstre:</b> Strafe, <b>Høyre:</b> Sving
+1360: Høyden din
+1361: Eksempler: 1,85 m, 185 cm, 6' 1", 6 fot 1 tomme
+1362: Klar til å begynne å utforske?
+1363: Du er klar og nesten klar til å gå! Vi vil nå overføre deg til opplæringsverdenen vår. På slutten er det en helt ny hjemmeverden som venter på deg, som vil fungere som din base for å utforske {appName}. Når du er klar, klikk på knappen nedenfor.
+1364: Begynn Tutorial
+1365: Community YouTube-kanaler
+1366: Brukerressurser
+1367: Slik støtter du {appName}
+1368: {appName} varer
+1369: {appName}-teamet
+1370: Moderator
+1371: Mentor
+1372: Hørselshemmet
+1373: Synshemmet
+1374: Talehemmet
+1375: Merker
+1376: Merker er små ikoner som viser aspekter ved en bruker. Her er noen viktige merker å huske. Funksjonshemmingsmerkene kan tildeles selv gjennom {appName}-roboten. For mer informasjon, sjekk {appName} Wiki
+1377: Hjelp
+1378: Lokal Toggle
+1379: Kommandoer aktivert
+1380: Kommandoer deaktivert
+1381: Sikkermodus aktivert
+1382: Sikkerhetsmodus deaktivert
+1383: Abonnentkommandoer<br> Kun aktivert for abonnenter
+1384: Abonnentkommandoer<br> aktivert for alle
+1385: Twitch Chat
+1386: Lagrer {n, plural, one {# item} other {# items}}...
+1387: Lagrer Endringer...
+1388: Avslutter...
+1389: Logger ut...
+1390: Migrering
+1391: Ny migrasjonsoppgave
+1392: Migrere data?
+1393: Vil du migrere data fra en annen konto? Du kan også velge å gjøre dette senere fra "Migrering"-fanen på dashbordet.
+1394: Åpen migrasjon
+1395: Kanskje senere
+1396: Virkelig tilbakestilt UserID?
+1397: Vær så snill å forstå at å gjøre dette vil resultere i <color=red>UNFORUTSIGBART INNHOLD ØDLEGGELSE</color>. Alle elementene, verdenene, kontaktene og meldingene dine vil bli migrert, men enhver atferd og komponenter som er avhengige av å referere til den gamle bruker-ID-en din, vil sannsynligvis gå i stykker og må rekonfigureres og repareres. Med mindre du har en seriøs grunn til å ønske å tilbakestille bruker-ID-en din, <color=red>IKKE VELG DETTE</color>.
+1398: Ja, tilbakestill
+1399: <b>Reservert brukernavn</b>
+1400: Dette brukernavnet er reservert for den opprinnelige eieren. Hvis dette er kontoen din, må du oppgi {platform}-legitimasjonen din for å låse den opp. Vi lagrer ikke disse legitimasjonene, de brukes kun til å bekrefte eierskapet til kontoen din ved registrering.
+1401: {plattform} Passord:
+1402: {plattform} Brukernavn:
+1403: Konto migrasjon
+1404: Du kan migrere data fra hvilken som helst kompatibel infrastruktur. Velg først en fra listen nedenfor som du vil migrere data fra. Du kan legge til ytterligere infrastrukturer ved å plassere konfigurasjonsfiler i "Migrations"-mappen i installasjonen.
+1405: For å migrere kontoen din trenger vi passordet for {platform}-kontoen din. Dette lar oss logge på og få tilgang til dataene.
+1406: Tilbakestill min bruker-ID
+1407: <color=red><b>ADVARSEL:</b></color> Hvis du velger dette alternativet <b>VIL DELVIS KRUKE EKSISTERENDE INNHOLD OG ER IRREVERSIBBEL</b>, dette inkluderer eventuelle UserID-referanser i brukerinnhold, fellesskapstjenester , lenker, skyvariabler og mer. Disse referansene vil bli tilbakestilt, men dine gjenstander, verdener, kontakter og meldinger vil ikke gå tapt. Vi anbefaler å bruke dette alternativet <b>BARE</b> hvis du ønsker å bli kvitt din gamle bruker-ID og erstatte den med en ny tilfeldig. Med mindre du har en sterk grunn til å tilbakestille bruker-ID-en din, <b>BØR du IKKE</b> krysse av for dette alternativet. Bruker-ID-en din endres slik:
+  U-Mitt Brukernavn -> U-fX3pKe7AYYQ
+1408: Hvilke data skal vi migrere når vi migrerer kontoen din?
+1409: Alt
+1410: La meg velge
+1411: Favoritter (avatar, hjem, kamera, tastatur, fasetter)
+1412: Dette vil migrere hjemmet ditt, favorittavataren, tastaturet, kameraet og dashbordet først, slik at du kan begynne å bruke dem så snart som mulig.
+  <color=red><b>ADVARSEL:</b></color> Hvis du velger dette alternativet, kan du <b>MISTE EVENTUELLE ENDRINGER</b> som er gjort på denne plattformen før migreringen til favorittene dine.
+1413: Skal vi overskrive favorittene dine ved migrering?
+1414: Sette ditt gamle hjem som standard?
+1415: Når vi migrerer dataene dine, vil det opprinnelige skyhjemmet ditt bli plassert under en annen URL, og du vil få et helt nytt skyhjem som standard. Men hvis du foretrekker det, kan vi standard ditt gamle hjem som standard. Selv om du velger "Nei", vil det gamle skyhjemmet ditt fortsatt være tilgjengelig, og du kan favoritt det som standard senere.
+1416: Kontakter
+1417: Meldingshistorikk
+1418: Inventar og verdener
+1419: Cloud Variable Definitions
+1420: Cloud Variable Values
+1421: Overskriv alltid
+1422: Start migrering
+1423: Migrer grupper
+1424: Bør vi migrere gruppene dine?
+1425: Alle grupper du er administrator for vil bli migrert som standard. Hvis du bare vil migrere utvalgte grupper, klikker du på knappen nedenfor for å laste dem og merker deretter av for gruppene du vil migrere.
+1426: Lastegrupper
+1427: Oppdater grupper
+1428: Henter grupper...
+1429: Feil ved pålogging: {error}
+1430: Feil under henting av grupper: {error}
+1431: Ingen {plattform}-grupper funnet å migrere.
+1432: Du er ikke administrator for noen {plattform}-grupper. Be gruppeadministratorene dine om å migrere gruppen!
+1433: Ok, vi har alt vi trenger. Klikk på Start migrering nedenfor, så kommer vi i gang med migreringen.
+
+Migrering kan ta en stund, vi må kopiere alt på tvers. Hvis du har valgt å migrere favorittene dine, vil vi prioritere dem slik at du kan bli komfortabel.
+
+Du trenger ikke fortsette å kjøre {appName} mens vi migrerer, men vi sender deg oppdateringer via {appName}-Botten for å fortelle deg hvordan det går.
+1434: Ønsker du å starte en ny migrering?
+1435: Klikk på "New Migration Task" øverst til venstre.
+1436: {name}
+<size=50%>Opprettet:{time}
+Status:{state}
+1437: Migrasjonsoppgaverapport:
+1438: <color={hex}>Beskrivelse:</color> {value}
+1439: <color={hex}>Status:</color> {value}
+1440: <color={hex}>Opprettet den:</color> {value}
+1441: <color={hex}>Startet på:</color> {value}
+1442: <color={hex}>Fullført den:</color> {value}
+1443: Migrerer for øyeblikket dataene til <color={hex}>{value}</color>.
+1444: Gjeldende element: <color={hex}>{value}</color>
+1445: <color={hex}>Gjeldende rate:</color> ~{value} verdener/gjenstander per minutt
+1446: <color={hex}>Resterende oppgaver i køen før denne:</color> {value}
+1447: Migrerte <color={hex}>{current}</color> kontakter ut av <color={hex}>{total}</color>
+1448: Migrerte <color={hex}>{value}</color> meldinger
+1449: Migrerte <color={hex}>{value}</color> skyvariabeldefinisjoner
+1450: Migrerte <color={hex}>{value}</color> skyvariabler
+1451: Migrerte <color={hex}>{current}</color> elementer/verdener fra <color={hex}>{total}</color>. <color=red>{failed}</color> mislyktes.
+1452: Migrerte <color={hex}>{current}</color> grupper ut av <color={hex}>{total}</color>
+1453: Migrerte totalt <color={hex}>{value}</color> gruppemedlemmer
+1454: <color=red>Feil:</color> {feil}
+1455: Ingenting er valgt, kan ikke starte.
+1456: Denne verdenen har blitt forfattet i gammarom og er automatisk konvertert til lineær.<br><br>Den kan se annerledes ut enn originalen, men bør være generelt brukbar.<br><br>Hvis du er forfatteren og du finne eventuelle problemer med konverteringen av verden <color=red>IKKE LAGRE</color>. Lagre kun kopier.<br><br>Så lenge originalen eksisterer, kan vi justere konverteringsprosessen. Ellers er du ansvarlig for å fikse det selv.
+1457: MMC Voting UI
+1458: Stemme
+1459: Kategorier
+1460: Verdener
+1461: Sosial
+1462: Spill
+1463: Gadgets/Tools+
+1464: Diverse
+1465: Meme
+1466: Avatarer
+1467: Tilbehør
+1468: Stem avgitt i kategori {category} for {voteTarget}.
+1469: Avstemning mislyktes, stemmen din er ikke registrert, prøv igjen.
+1470: Du har allerede stemt i {category}.
+1471: Stemmen er ugyldig, prøv igjen.
+1472: Velkommen hjem
+1473: Alternativer for målområde
+1474: Velkommen hjem!
+1475: Velkommen til din <b><i><color=hero.yellow>Hjem</b></i></color> verden! Det er her du ender opp hver gang du logger på.<br><br>Dette er en helt egen verden, så alle endringer du gjør kan lagres.<br><br>Hvis du lagrer, kan alt vil være akkurat som du forlot den når du kommer tilbake!
+1476: Online {online_users,flertall, one {user} other {users}}: {online_users}<br>Joinable {joinable_users,plural, one {user} other {users}}: {joinable_users}
+1477: Moderasjon
+1478: Inventar
+1479: Verktøy
+1480: Mer info
+1481: Øktoppetid:
+1482: Tilgangsnivå:
+1483: Lagring brukt:
+1484: Velkommen!
+1485: Bare for å få deg opp i fart, er det et par ting du bør vite. Du har et <i><color=hero.purple>Dashboard</color></i> som du kan åpne ved å trykke Escape. Tenk på det som skrivebordet eller kontrollpanelet ditt.<br><br>Hvis du er forvirret, har denne skjermen litt tilleggsinformasjon som kan hjelpe deg. Klikk på knappen nedenfor for å avvise denne meldingen.
+1486: Bare for å få deg opp i fart, er det et par ting du bør vite. Du har et <i><color=hero.purple>dashbord</color></i> som du kan åpne ved å trykke på B eller Y. Tenk på det som skrivebordet eller kontrollpanelet.<br><br>Hvis du Hvis du er forvirret, har denne skjermen litt tilleggsinformasjon for å hjelpe deg. Klikk på knappen nedenfor for å avvise denne meldingen.
+1487: Bare for å få deg opp i fart, er det et par ting du bør vite. Du har et <i><color=hero.purple>dashbord</color></i> som du kan åpne ved å trykke og holde inne menyknappen til sirkelen er fullført. Tenk på det som skrivebordet eller kontrollpanelet ditt.<br><br>Hvis du er forvirret, har denne skjermen litt tilleggsinformasjon som kan hjelpe deg. Klikk på knappen nedenfor for å avvise denne meldingen.
+1488: Gå til Wiki!
+1489: Gå til Discord!
+1490: Moderasjon!
+1491: Sikkerhet er viktig for oss. Hvis du trenger hjelp eller trenger å rapportere en bruker, åpner du en billett i vår <u><color=hero.cyan>Moderasjonsportal.</color></u><sprite name=hyperlink><br><br>Vi ha et sterkt team av frivillige moderatorer <sprite name=modbadge> som holder fellesskapet trygt! Send inn en billett hvis du har spørsmål eller ser retningslinjebrytende oppførsel.
+1492: Lagre gjenstandene dine!
+1493: <i><color=hero.purple>Inventaret</color></i> i <i><color=hero.purple>Dashboard</color></i> inneholder dine lagrede avatarer og gjenstander. <br><br>Mappen <i><color=hero.purple>Essentials</color></i> har noen morsomme ting å leke med; dobbeltklikk på et element for å skape det!
+1494: Redigering i verden!
+1495: Et kjennetegn ved {appName} er å enkelt kunne lage eller endre ting riktig i spillet.<br><br>Ja, det betyr akkurat her! Eller hvor som helst egentlig - verktøyene som er tilgjengelige for deg via <i><color=hero.purple>Essentials -> Verktøy</color></i> i inventaret ditt lar deg enkelt redigere verden rundt deg slik du vil.
+1496: Få hjelp
+1497: Trenger du hjelp? Ta en titt på vår <u><color=hero.cyan>Wiki</color></u><sprite name=hyperlink>, eller få svar på dine
+1498: spørsmål i vår <u><color=hero.cyan>Discord!</color></u><sprite name=hyperlink> Du kan enkelt se lenker på skrivebordet ditt gjennom dashbordet i <i><color =hero.purple>Skrivebord</color></i>-fanen.
+1499: Finne brukere
+1500: Offentlige økter er en flott måte å fordype deg i fellesskapet!<br><br>Offentlige økter som du kan bli med på akkurat nå, finner du i <i><color=hero.purple>Verdenene</color>< /i>-fanen i dashbordet. Sjekk det ut!
+1501: Gjengivelsesalternativer
+1502: Speiltype
+1503: Speiloppløsning
+1504: Sideforhold
+1505: Aktiver lys
+1506: Deaktiver lys
+1507: Aktiver Shadows
+1508: Deaktiver Shadows
+1509: Kamera
+1510: Høy
+1511: Square
+1512: Bred
+1513: Meny
+1514: Lukk meny
+1515: Spin Meg!
+1516: Gratis selvpåfyllende fruktfat
+1517: Tomt bare for deg! :)
+1518: Relevante lenker!<br><--<br><br><size=500>Man kan til og med kalle det en lenkebok</size>
+1519: Hold solens kraft i hendene dine!
+1520: Trekk Strengen og Sikt rett
+1521: Spakhandling (eller bruk sekundær) for å laste
+1522: Justerbar skjerming
+1523: Bruk dette nettbrettet til å kontrollere viften og vindusfargen for dette rommet!
+1524: Bruk dette nettbrettet til å kontrollere deler av hjemmet!
+1525: Roter meg ved å holde E!
+1526: Roter meg!
+1527: Utstyr og trykk venstre mus!
+1528: Utstyr og trekk i tråden!
+1529: Dypp børster i kuler for å bruke materialer
+1530: Endre penselfarge og størrelse i kontekstmenyen
+1531: Du kan tegne på brettet, i luften eller hvor som helst!
+1532: Verden er ditt lerret!
+1533: Hjemmekontroll
+1534: General
+1535: Belysning
+1536: Møbler
+1537: Kvalitet
+1538: Dører
+1539: Lyd
+1540: Overlys
+1541: Lampetter
+1542: Møbelsynlighet
+1543: Lavkvalitetsmodus
+1544: Dørlyder
+1545: Dører alltid åpne
+1546: Interiørstemning
+1547: Interiør<br>Atmosfære<br>Volum
+1548: Lys på
+1549: Lysintensitet
+1550: Lys Farge
+1551: Lys fargetemperatur
+1552: Spawn
+1553: Foajé
+1554: Arbeidsplass
+1555: Lesesalong
+1556: Salong
+1557: Sentrum
+1558: Balkong
+1559: Teater
+1560: Teaterkontroll
+1561: Viftekontroll
+1562: Vinduskontroll
+1563: Viftehastighet
+1564: Vindusfarge
+1565: Åpen verden
+1566: Åpne denne verden for<br>deg selv ved å klikke her!
+1567: omtalt
+1568: Utvalgte avatarverdener
+1569: <b>Våre støttespillere</b>
+1570: Hei! Før du går...
+1571: Det er en verden av muligheter som venter på deg, og hva som er mulig er bare begrenset av fantasien din.<br><br> Nesten alle tingene du har sett så langt ble laget riktig i spillet! Folk fra hele verden jobbet sammen i sanntid for å bygge den.<br><br> Plattformen er fortsatt veldig tidlig i utvikling, og vi oppdaterer og forbedrer ting hele tiden. Men du er også en del av denne reisen, og himmelen er grensen!<br><br><align=center>Takk for at du stoppet og prøvde oss.</align>
+1572: Grip
+1573: Snap
+1574: Sklie
+1575: Hopping
+1576: Mens du er i Walk-Locomotion, trykk på mellomrom for å hoppe!
+1577: Mens du er i Walk-Locomotion, trykk inn joysticken for å hoppe!
+1578: Mens du er i Walk-Locomotion, trykk inn midten av styreflaten for å hoppe!
+1579: gå Locomotion
+1580: Beveg deg og hopp langs bakken.
+1581: Teleporter Locomotion
+1582: Teleport sender deg umiddelbart til teleporteringsindikatoren.
+1583: Bruk bevegelsestastene til å gå rundt!
+1584: Bruk styrespakene dine til å gå rundt!
+1585: Bruk styreflatene dine til å gå rundt!
+1586: Åpne kontekstmenyen ved å trykke T for alternativer!
+1587: Føler du deg syk? Åpne kontekstmenyen ved å trykke B eller Y for alternativer!
+1588: Føler du deg syk? Åpne kontekstmenyen ved å trykke på menyknappen for alternativer!
+1589: Andre Locomotionalternativer, ocomotionternativer, for eksempel flue, er tilgjengelige for å prøve i bevegelsesmenyen.
+1590: Andre Locomotionalternativer, for eksempel teleport eller flue, er tilgjengelige for å prøve i bevegelsesmenyen.
+1591: Trykk på denne knappen for å bringe plattformen til deg!
+1592: Ta fysisk tak i ting ved å holde høyre museknapp!
+1593: Ta fysisk tak i ting ved å holde Grip!
+1594: Roter gjenstander ved å holde inne E og bevege musen!
+1595: Hold Shift og E sammen for å rotere et objekt rundt sin horisontale akse!
+1596: Ta tak i en gjenstand, hold shift, og bruk rullehjulet til å skalere det!
+1597: Ta fysisk tak i ting med begge hender for å skalere dem!
+1598: Det finnes en rekke interaksjoner, lek med disse tre for å se hvordan de fungerer!
+1599: I tillegg til å skalere objekter, kan du også skalere deg selv ved å aktivere skalering i kontekstmenyen, deretter holde kontrollen og bruke rullehjulet!
+1600: I tillegg til å skalere objekter, kan du også skalere deg selv ved å aktivere skalering i kontekstmenyen, gripe foran deg med begge hender og flytte dem nærmere eller lenger fra hverandre!
+1601: Ta tak i teleskopet og sikt det mot månen!
+1602: Mens du sikter mot månen, hold høyreklikk og se deg rundt for å flytte månen!
+1603: Utplasser laseren din med utløserknappen og ta tak i månen!
+1604: Ta tak i dette verktøyet for å bruke det!
+1605: Verktøy lar deg forandre verden rundt deg på en rekke måter!
+1606: Klikk på dette verktøyet for å utstyre det!
+1607: Ser du ikke laseren din? Hold avtrekkeren litt for å avsløre den!
+1608: Sikt mot himmelen og klikk for å flytte solen dit!
+1609: Prøv å sikte under horisonten for å gjøre det natt!
+1610: Slipp det utstyrte verktøyet ved å velge Dequip i kontekstmenyen.
+1611: Legg merke til at alternativene i kontekstmenyen din har endret seg fordi du holder dette verktøyet.
+1612: Trykk på denne knappen for å aktivere Teleporter til ditt Cloud Home!
+1613: Nyt hjemmet ditt og takk for at du tok turen innom!
+1614: Landskap
+1615: Portrett
+1616: Normal
+1617: Monospace
+1618: Globale<br>innstillinger
+1619: Lokale<br>innstillinger
+1620: Romlig<br>lyd
+1621: Område<br>sending
+1622: Sending<br>lyd
+1623: <i><alpha=#77>Skriv inn URL her</closeall>
+1624: Lokal til<br>teater
+1625: Hørbar<br>til verden
+1626: {users_loaded}/{users_present} {users_present,flertall, en {user} annen {users}}<br>lastet
+1627: Fargevelger
+1628: Lineær
+1629: Hex
+1630: Swatch
+1631: Rød
+1632: Grønn
+1633: Blå
+1634: Hue
+1635: Metning
+1636: Verdi
+1637: Alpha
+1638: Gain
+1639: Importerer Item
+1640: Multiverktøy
+1641: Vanlige verktøy
+1642: Manipulasjonsverktøy
+1643: Informasjonsverktøy
+1644: Geometri Line Brush Tool
+1645: Utviklerverktøy
+1646: Komponentkloneverktøy
+1647: ProtoFlux-verktøy
+1648: Materialverktøy
+1649: Limverktøy
+1650: Lettverktøy
+1651: Formverktøy
+1652: Mikrofonverktøy
+1653: Gripbart setterverktøy
+1654: Physical Collider Setter Tool
+1655: Mesh Visibility Tool
+1656: Verktøy for synlighet av kameraobjekter
+1657: Fargeverktøy
+1658: Mesh-verktøy
+1659: Rigged Mesh Transfer Tool
+1660: Mesh Slicer Tool
+1661: Kontrollerdiagnoseverktøy
+1662: Måleverktøy
+1663: Etikettverktøy
+1664: Dummy
+1665: <color=#fff>Serverstatus:</color> {status, velg, bra {Good} Sakte {Slow} ned {Down} Ingen Internett {No Internet}} ({response_ms} ms)
+1667: Mottatt tipp {amount} {token}
+1668: Sendt tipp {amount} {token}
