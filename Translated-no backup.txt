@@ -526,6 +526,7 @@
 526: Flyttet {name}
 527: flytt
 528: flytt langs aksen
+528: flytt langs aksen
 529: Roter rundt aksen
 530: Tilbakestill posisjon
 531: Tilbakestill Rotasjon
@@ -816,7 +817,8 @@
 816: Juster avatar forskyvninger slik at de passer best med referansen
 817: Bekreft og finjuster kalibreringen ved å flytte blå referans Punkter
 818: Kalibrer Trackerne
-819: Grip og plasser de blå kroppsdelene i forhold til trackerne for å justere offset. De bør samsvare med plasseringen til sporeren på kroppen din./nDu kan justere kalibreringen når som helst senere ved å åpne dette verktøyet på nytt.
+819: Grip og plasser de blå kroppsdelene i forhold til trackerne for å justere offset. De bør samsvare med plasseringen til sporeren på kroppen din.
+Du kan justere kalibreringen når som helst senere ved å åpne dette verktøyet på nytt.
 820: Bruk symmetri
 821: Vis kroppsoverlegg
 822: Hvis dukken er for høy (krukket) eller for kort, juster høydekompensasjonen.
@@ -838,7 +840,8 @@
 838: Fullfør Avatar-kalibrering
 839: Hvis du er fornøyd med kalibreringen, kan du lagre avataren din nå og avslutte.
 840: Lukk kalibrator
-841: Hvis kalibreringen er av eller du ønsker å kalibrere flere avatarer, kan du gjøre flere justeringer. Du kan også åpne denne kalibratoren på nytt når som helst i fremtiden for å gjøre justeringer./nHvis du bare har endret sporing, trenger du ikke å kalibrere avatarene igjen.
+841: Hvis kalibreringen er av eller du ønsker å kalibrere flere avatarer, kan du gjøre flere justeringer. Du kan også åpne denne kalibratoren på nytt når som helst i fremtiden for å gjøre justeringer.
+Hvis du bare har endret sporing, trenger du ikke å kalibrere avatarene igjen.
 842: Gå tilbake til sporingskalibrering
 843: Hofter
 844: Føtter
@@ -1404,12 +1407,14 @@
 1404: Du kan migrere data fra hvilken som helst kompatibel infrastruktur. Velg først en fra listen nedenfor som du vil migrere data fra. Du kan legge til ytterligere infrastrukturer ved å plassere konfigurasjonsfiler i "Migrations"-mappen i installasjonen.
 1405: For å migrere kontoen din trenger vi passordet for {platform}-kontoen din. Dette lar oss logge på og få tilgang til dataene.
 1406: Tilbakestill min bruker-ID
-1407: <color=red><b>ADVARSEL:</b></color> Hvis du velger dette alternativet <b>VIL DELVIS KRUKE EKSISTERENDE INNHOLD OG ER IRREVERSIBBEL</b>, dette inkluderer eventuelle UserID-referanser i brukerinnhold, fellesskapstjenester , lenker, skyvariabler og mer. Disse referansene vil bli tilbakestilt, men dine gjenstander, verdener, kontakter og meldinger vil ikke gå tapt. Vi anbefaler å bruke dette alternativet <b>BARE</b> hvis du ønsker å bli kvitt din gamle bruker-ID og erstatte den med en ny tilfeldig. Med mindre du har en sterk grunn til å tilbakestille bruker-ID-en din, <b>BØR du IKKE</b> krysse av for dette alternativet. Bruker-ID-en din endres slik:/nU-Mitt Brukernavn -> U-fX3pKe7AYYQ
+1407: <color=red><b>ADVARSEL:</b></color> Hvis du velger dette alternativet <b>VIL DELVIS KRUKE EKSISTERENDE INNHOLD OG ER IRREVERSIBBEL</b>, dette inkluderer eventuelle UserID-referanser i brukerinnhold, fellesskapstjenester , lenker, skyvariabler og mer. Disse referansene vil bli tilbakestilt, men dine gjenstander, verdener, kontakter og meldinger vil ikke gå tapt. Vi anbefaler å bruke dette alternativet <b>BARE</b> hvis du ønsker å bli kvitt din gamle bruker-ID og erstatte den med en ny tilfeldig. Med mindre du har en sterk grunn til å tilbakestille bruker-ID-en din, <b>BØR du IKKE</b> krysse av for dette alternativet. Bruker-ID-en din endres slik:
+  U-Mitt Brukernavn -> U-fX3pKe7AYYQ
 1408: Hvilke data skal vi migrere når vi migrerer kontoen din?
 1409: Alt
 1410: La meg velge
 1411: Favoritter (avatar, hjem, kamera, tastatur, fasetter)
-1412: Dette vil migrere hjemmet ditt, favorittavataren, tastaturet, kameraet og dashbordet først, slik at du kan begynne å bruke dem så snart som mulig./n<color=red><b>ADVARSEL:</b></color> Hvis du velger dette alternativet, kan du <b>MISTE EVENTUELLE ENDRINGER</b> som er gjort på denne plattformen før migreringen til favorittene dine.
+1412: Dette vil migrere hjemmet ditt, favorittavataren, tastaturet, kameraet og dashbordet først, slik at du kan begynne å bruke dem så snart som mulig.
+  <color=red><b>ADVARSEL:</b></color> Hvis du velger dette alternativet, kan du <b>MISTE EVENTUELLE ENDRINGER</b> som er gjort på denne plattformen før migreringen til favorittene dine.
 1413: Skal vi overskrive favorittene dine ved migrering?
 1414: Sette ditt gamle hjem som standard?
 1415: Når vi migrerer dataene dine, vil det opprinnelige skyhjemmet ditt bli plassert under en annen URL, og du vil få et helt nytt skyhjem som standard. Men hvis du foretrekker det, kan vi standard ditt gamle hjem som standard. Selv om du velger "Nei", vil det gamle skyhjemmet ditt fortsatt være tilgjengelig, og du kan favoritt det som standard senere.
@@ -1430,10 +1435,16 @@
 1430: Feil under henting av grupper: {error}
 1431: Ingen {plattform}-grupper funnet å migrere.
 1432: Du er ikke administrator for noen {plattform}-grupper. Be gruppeadministratorene dine om å migrere gruppen!
-1433: Ok, vi har alt vi trenger. Klikk på Start migrering nedenfor, så kommer vi i gang med migreringen./n/nMigrering kan ta en stund, vi må kopiere alt på tvers. Hvis du har valgt å migrere favorittene dine, vil vi prioritere dem slik at du kan bli komfortabel./nDu trenger ikke fortsette å kjøre {appName} mens vi migrerer, men vi sender deg oppdateringer via {appName}-Botten for å fortelle deg hvordan det går.
+1433: Ok, vi har alt vi trenger. Klikk på Start migrering nedenfor, så kommer vi i gang med migreringen.
+
+Migrering kan ta en stund, vi må kopiere alt på tvers. Hvis du har valgt å migrere favorittene dine, vil vi prioritere dem slik at du kan bli komfortabel.
+
+Du trenger ikke fortsette å kjøre {appName} mens vi migrerer, men vi sender deg oppdateringer via {appName}-Botten for å fortelle deg hvordan det går.
 1434: Ønsker du å starte en ny migrering?
 1435: Klikk på "New Migration Task" øverst til venstre.
-1436: {name}/n<size=50%>Opprettet:{time}/nStatus:{state}
+1436: {name}
+<size=50%>Opprettet:{time}
+Status:{state}
 1437: Migrasjonsoppgaverapport:
 1438: <color={hex}>Beskrivelse:</color> {value}
 1439: <color={hex}>Status:</color> {value}
@@ -1663,6 +1674,5 @@
 1663: Etikettverktøy
 1664: Dummy
 1665: <color=#fff>Serverstatus:</color> {status, velg, bra {Good} Sakte {Slow} ned {Down} Ingen Internett {No Internet}} ({response_ms} ms)
-1666: Tom for rom! <size=50%>Kan ikke synkronisere</size>
 1667: Mottatt tipp {amount} {token}
 1668: Sendt tipp {amount} {token}
